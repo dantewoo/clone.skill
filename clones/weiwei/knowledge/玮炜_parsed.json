@@ -1,0 +1,7018 @@
+{
+  "metadata": {
+    "target_name": "玮炜",
+    "total_messages": 1165,
+    "time_range": {
+      "earliest": "2025-04-11T10:42:15",
+      "latest": "2026-04-07T22:10:58",
+      "days_span": 361
+    },
+    "weight_distribution": {
+      "6-12个月": 330,
+      "3-6个月": 109,
+      "1-3个月": 338,
+      "近1个月": 388
+    },
+    "message_stats": {
+      "avg_length": 13.2,
+      "min_length": 1,
+      "max_length": 2258
+    },
+    "reply_stats": {
+      "avg_reply_seconds": 89.5,
+      "reply_samples": 659
+    }
+  },
+  "messages": [
+    {
+      "timestamp": "2025-04-11T10:42:15",
+      "sender": "玮炜",
+      "content": "哈呀一得苏捏",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-11T10:42:16",
+      "sender": "玮炜",
+      "content": "啥意思",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-11T10:42:22",
+      "sender": "玮炜",
+      "content": "你知道什么梗么",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-11T10:42:38",
+      "sender": "玮炜",
+      "content": "哈哈哈 好吧",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-11T10:42:44",
+      "sender": "玮炜",
+      "content": "我查查",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-11T10:43:13",
+      "sender": "玮炜",
+      "content": "明天别来了",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-11T10:43:14",
+      "sender": "玮炜",
+      "content": "大风",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-11T10:43:29",
+      "sender": "玮炜",
+      "content": "牛逼",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-11T10:43:31",
+      "sender": "玮炜",
+      "content": "建议打车",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-18T13:32:52",
+      "sender": "玮炜",
+      "content": "https://music.163.com/#/song?id=2124796896",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-18T13:33:02",
+      "sender": "玮炜",
+      "content": "梦核歌曲",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-20T17:06:14",
+      "sender": "玮炜",
+      "content": "我用用你5e，行么",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-20T17:06:21",
+      "sender": "玮炜",
+      "content": "我看这个电脑上等着",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-20T17:06:25",
+      "sender": "玮炜",
+      "content": "登陆着",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-20T17:07:48",
+      "sender": "玮炜",
+      "content": "不用了",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-20T17:07:58",
+      "sender": "玮炜",
+      "content": "忘了它和steam绑定了",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-20T17:11:21",
+      "sender": "玮炜",
+      "content": "[图片]",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-20T17:11:27",
+      "sender": "玮炜",
+      "content": "体验你的外设",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-20T17:11:39",
+      "sender": "玮炜",
+      "content": "必须的",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-20T17:11:53",
+      "sender": "玮炜",
+      "content": "那得找海燕",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-21T11:55:35",
+      "sender": "玮炜",
+      "content": "啊",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-21T11:55:42",
+      "sender": "玮炜",
+      "content": "刚才说的呀",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-21T11:55:55",
+      "sender": "玮炜",
+      "content": "我说这会咋没开呢",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-21T11:55:57",
+      "sender": "玮炜",
+      "content": "哎",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-21T11:55:59",
+      "sender": "玮炜",
+      "content": "没人了",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-21T11:56:07",
+      "sender": "玮炜",
+      "content": "嗯嗯",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-21T11:56:36",
+      "sender": "玮炜",
+      "content": "那为啥走捏  稿子要求太高了？",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-21T11:56:38",
+      "sender": "玮炜",
+      "content": "还是说黑箱？",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-21T11:56:53",
+      "sender": "玮炜",
+      "content": "哎 没办法",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-21T11:58:36",
+      "sender": "玮炜",
+      "content": "是的",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-21T11:58:39",
+      "sender": "玮炜",
+      "content": "谁都接受不了",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-21T11:59:16",
+      "sender": "玮炜",
+      "content": "那完了",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-21T11:59:21",
+      "sender": "玮炜",
+      "content": "不敢想象",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-23T10:43:29",
+      "sender": "玮炜",
+      "content": "?",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-24T13:19:30",
+      "sender": "玮炜",
+      "content": "发给我看看",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-24T13:21:51",
+      "sender": "玮炜",
+      "content": "他啥也没标注啊",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-24T13:21:58",
+      "sender": "玮炜",
+      "content": "他要你们自己找？",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-24T13:22:01",
+      "sender": "玮炜",
+      "content": "他不管？",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-24T13:22:15",
+      "sender": "玮炜",
+      "content": "牛逼",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-24T13:24:59",
+      "sender": "玮炜",
+      "content": "太惊讶了",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-24T13:25:03",
+      "sender": "玮炜",
+      "content": "主要是",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-24T13:28:18",
+      "sender": "玮炜",
+      "content": "有的地方不是很清楚",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-24T13:28:59",
+      "sender": "玮炜",
+      "content": "好好弄吧",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-24T13:29:00",
+      "sender": "玮炜",
+      "content": "加油",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-24T13:29:05",
+      "sender": "玮炜",
+      "content": "哈哈哈",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-24T13:30:59",
+      "sender": "玮炜",
+      "content": "1个月么？",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-24T13:31:07",
+      "sender": "玮炜",
+      "content": "感觉俩月好吧",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-24T13:31:16",
+      "sender": "玮炜",
+      "content": "中间肯定要插别的",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-24T18:46:49",
+      "sender": "玮炜",
+      "content": "牛逼",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-24T18:46:54",
+      "sender": "玮炜",
+      "content": "什么配置",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-25T11:42:27",
+      "sender": "玮炜",
+      "content": "有空吗，待会帮我拍点视频，大概10分钟",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-04-28T15:03:33",
+      "sender": "玮炜",
+      "content": "行",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-05-12T16:22:35",
+      "sender": "玮炜",
+      "content": "哈哈哈",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-05-12T16:22:48",
+      "sender": "玮炜",
+      "content": "下个月能做完不",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-05-12T16:22:57",
+      "sender": "玮炜",
+      "content": "哈哈哈",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-05-12T16:24:28",
+      "sender": "玮炜",
+      "content": "哈哈哈 没有他不懂的",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-05-12T16:24:41",
+      "sender": "玮炜",
+      "content": "哈哈哈",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-05-13T11:06:13",
+      "sender": "玮炜",
+      "content": "314963364",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-05-14T15:01:08",
+      "sender": "玮炜",
+      "content": "不知道，等狗哥回来吧",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-05-14T15:01:18",
+      "sender": "玮炜",
+      "content": "嗯嗯",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-05-14T15:40:13",
+      "sender": "玮炜",
+      "content": "[转发的聊天记录]群聊的聊天记录\n吃了吗: 标好了吗&#x20;啥时候能剪&#x20;\n武陵捕鱼人: @玮炜&#x20;老师您这边素材咋样了，找回了吗，有不涉及到实拍的让老师们先剪辑着呗\n吃了吗: 实拍也得给了啊&#x20;就一下午时间剪了\n武陵捕鱼人: 嗯&#x20;他还在找回&#x20;那会不小心删了\n玮炜: https://humr82ftfx.feishu.cn/base/AsZDbH13BaWfyysLxgyczJdQnYk?from=from_copylink\n玮炜: 各位剪辑老师这个是分镜表\n玮炜: 今早因为我的失误，导致进度落后，实在不好意思\n吃了吗: 啥时候能恢复好呢&#x20;\n玮炜: 素材都恢复回来了，我尽快标完，但昨天还有15%左右的镜头没拍完的，再加上一些补拍，下午还需要去狗哥家拍下，咱们今天先把已有素材填上去\n玮炜: 明天中午出一版&#x20;如何？\n玮炜: @武陵捕鱼人\n玮炜: [消息]\n玮炜: 标完的我都传到NAS上了，老师们可以先看着\n吃了吗: 你先确认下恢复的素材有没有损坏的一起补拍了\n玮炜: 嗯嗯&#x20;我还在逐一检查\n吃了吗: 中午不一定来得及交\n武陵捕鱼人: 你这边今天能剪辑的占视频的多少\n玮炜: 应该可以，试试吧\n玮炜: 80\n武陵捕鱼人: 辛苦今天先剪辑能剪的吧，没拍完也没有办法，也只能明天上午辛苦补一下@吃了吗\n武陵捕鱼人: @玮炜&#x20;但是咱们以后还是不要这样了哈，不按期走，去和客户那边掰扯不太好，感谢\n玮炜: 好的，下次周期我一定按照自己能力确定好进度\n武陵捕鱼人: 要是明天给到审核的话，辛苦封面图的素材看今天能给马老师那边设计不\n玮炜: 今天安排\n武陵捕鱼人: 这样明天可能一次性反馈快一点~\n武陵捕鱼人: OK\n玮炜: 嗯\n武陵捕鱼人: 已拍摄的都标完了吗@玮炜&#x20;@吃了吗\n玮炜: 20分钟内标好\n吃了吗: &#x20;这些是现在的全部素材吗？对应哪段的要不要标一下&#x20;\n吃了吗: [消息]\n玮炜: 不是\n玮炜: 3点估计上传完\n玮炜: 传完了我在群里跟您说\n吃了吗: 嗯嗯&#x20;&#x20;命名一下&#x20;大家选用的话重复镜头会有点多&#x20;\n玮炜: 我都按镜头号标的&#x20;请放心\n吃了吗: OK&#x20;等你弄完&#x20;\n武陵捕鱼人: 老师素材标注的链接辛苦给一下哈，这个链接是拍摄的\n玮炜: ？\n武陵捕鱼人: [消息]\n玮炜: ？\n武陵捕鱼人: 你这内容他们目前没法剪辑呀\n武陵捕鱼人: 不知道您的？&#x20;疑问在哪\n玮炜: 前面镜号不是很清楚吗？\n玮炜: 5分钟后看下NAS\n玮炜: 目前正在上传\n武陵捕鱼人: 那就是现在只是镜号有了123，但是素材还是没有对应123是吧\n武陵捕鱼人: 是很清楚，但是没内容呀，所以我说是不是发错了，也没毛病吧\n玮炜: 对呀，不是正在标么？\n玮炜: 麻烦看下我和剪辑老师之间的聊天记录，感觉已经很清楚了吧\n武陵捕鱼人: [消息]\n玮炜: 所以呢？\n武陵捕鱼人: 你们要是对清楚了，我有必要在问吗\n玮炜: 那你问问剪辑老师，清楚吗\n武陵捕鱼人: 不知道你气在哪？\n玮炜: 我生气了？\n武陵捕鱼人: 有问题就沟通解决\n玮炜: 我没在沟通解决？\n玮炜: [消息]\n玮炜: 感觉很清楚了吧\n玮炜: 另外打？就是生气吗，那也未必生气太多了吧\n武陵捕鱼人: 那您有话直接说，别总？？\n玮炜: ？&#x20;就是不明白你啥意思\n吃了吗: 你早上说80%的素材恢复了&#x20;&#x20;&#x20;&#x20;NSA里我等半天也就那么几条素材&#x20;&#x20;我也不是很明白你是啥意思\n玮炜: 素材恢复了，指的是从内存卡里恢复了\n玮炜: 我感觉说的很清楚了吧\n玮炜: 我从内存卡里挑选素材也是需要时间的\n吃了吗: 你承诺的是我们现在能有的剪啊&#x20;让我们先弄&#x20;现在没东西可弄我着急\n吃了吗: 那是不是你没说清楚呢\n玮炜: [消息]\n玮炜: [消息]\n玮炜: 我觉得很清楚\n玮炜: 我标记完的就传到nas上\n玮炜: 没传就是没标记完\n玮炜: 我觉得与其指责同事，不如先看看素材？\n吃了吗: 你就说等到几点完事吧给个时间\n玮炜: 已经完事了\n玮炜: [消息]\n玮炜: 我知道大家都很急，我尽力弄好\n吃了吗: 你的避重就轻使我叹为观止\n玮炜: 我也考虑到你们进度了，手里不是还有火箭要出\n吃了吗: [动画表情]\n玮炜: 请问你说的重和轻&#x20;是啥\n玮炜: 如果一味输出情绪，那就没有讨论必要了\n玮炜: 我把这个说完哈，我也私下和您说了，明天中午3，4点都来急，出一版给客户\n吃了吗: 你需要冷静一下&#x20;好好&#x20;反思下自己是不是情绪输出和避重就轻\n吃了吗: 既然还不能剪&#x20;就别说成可以开始了\n吃了吗: 好吗&#x20;大家有努力帮你擦屁股\n玮炜: 嗯嗯，好的\n玮炜: 13，25，26，27，36&#x20;需要重新拍的镜头\n玮炜: @伊尹 @💁 @吃了吗\n玮炜: 可以先用现在的先顶着\n玮炜: 估计出来也差不多\n吃了吗: 嗯嗯&#x20;\n玮炜: 其他你们有觉得不好随时跟我说，我补拍\n玮炜: @伊尹 @💁\n玮炜: 今天下午到晚上我都在狗哥家里拍，随时群里说\n玮炜: 争取一遍过了，不要让用户再说了\n吃了吗: 哈哈哈哈哈哈&#x20;好&#x20;你也争取别压DDL让我们有时间好好做吧&#x20;加油",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-05-14T19:02:12",
+      "sender": "玮炜",
+      "content": "拍完了",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-05-14T19:02:16",
+      "sender": "玮炜",
+      "content": "我回了熬",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-05-14T19:04:29",
+      "sender": "玮炜",
+      "content": "拍完了 回去搞搞素材",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-05-15T11:38:41",
+      "sender": "玮炜",
+      "content": "[转发的聊天记录]今天我替煤炭给AI正个名。。。",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-05-19T09:52:26",
+      "sender": "玮炜",
+      "content": "兄弟 出差了",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-05-19T09:52:28",
+      "sender": "玮炜",
+      "content": "明天下午回去",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-02T17:06:02",
+      "sender": "玮炜",
+      "content": "major作业给我抄抄",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-02T17:24:09",
+      "sender": "玮炜",
+      "content": "OKOK",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-02T17:24:12",
+      "sender": "玮炜",
+      "content": "第一轮好过",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-02T17:24:25",
+      "sender": "玮炜",
+      "content": "看看比赛 就能自己选第二轮了",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-04T10:49:18",
+      "sender": "玮炜",
+      "content": "能赢 它不是纯菜逼",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-05T10:41:01",
+      "sender": "玮炜",
+      "content": "https://majors.im/25austin",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-05T16:30:32",
+      "sender": "玮炜",
+      "content": "[图片]",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-05T16:30:38",
+      "sender": "玮炜",
+      "content": "这是谁写的来",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-05T16:30:48",
+      "sender": "玮炜",
+      "content": "哦哦",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-05T16:30:59",
+      "sender": "玮炜",
+      "content": "感觉好多梗 像你后期加工的",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-05T16:31:32",
+      "sender": "玮炜",
+      "content": "我说呢",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-06T12:58:41",
+      "sender": "玮炜",
+      "content": "梦核",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-06T12:59:12",
+      "sender": "玮炜",
+      "content": "NB",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-06T12:59:15",
+      "sender": "玮炜",
+      "content": "IE3.0",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-06T13:00:20",
+      "sender": "玮炜",
+      "content": "转接就行了",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-06T15:00:11",
+      "sender": "玮炜",
+      "content": "[文件]Inflection_Point_2025_1_94_translate_20250606145846.pdf",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-06T15:00:15",
+      "sender": "玮炜",
+      "content": "机翻的",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-06T15:49:39",
+      "sender": "玮炜",
+      "content": "[文件]The-2025-Crypto-Crime-Report-Chainalysis_1_135_translate_20250606154447.pdf",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-07T18:20:37",
+      "sender": "玮炜",
+      "content": "有作业吗 吵吵",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-07T18:50:54",
+      "sender": "玮炜",
+      "content": "牛逼",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-07T18:59:46",
+      "sender": "玮炜",
+      "content": "好的",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-07T19:02:21",
+      "sender": "玮炜",
+      "content": "[图片]",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-07T23:27:13",
+      "sender": "玮炜",
+      "content": "哈哈哈  看faze",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-07T23:27:35",
+      "sender": "玮炜",
+      "content": "看简单",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-07T23:32:59",
+      "sender": "玮炜",
+      "content": "你滴寒王",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-09T18:22:54",
+      "sender": "玮炜",
+      "content": "行 支持你",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-09T18:23:57",
+      "sender": "玮炜",
+      "content": "我也想干，没有合适的",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-10T18:53:32",
+      "sender": "玮炜",
+      "content": "快来查看我用飞书分享的【苹果WWDC，6.10 头条】👉https://humr82ftfx.feishu.cn/docx/KToIdv8bDo04cKxp7wRcEQQhnid",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-10T18:53:36",
+      "sender": "玮炜",
+      "content": "请看看",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-10T19:20:52",
+      "sender": "玮炜",
+      "content": "有啥要改的地方吗",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-10T19:22:10",
+      "sender": "玮炜",
+      "content": "好的",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-16T17:55:50",
+      "sender": "玮炜",
+      "content": "你那翻墙正常吗",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-16T17:56:35",
+      "sender": "玮炜",
+      "content": "OK",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-20T11:37:26",
+      "sender": "玮炜",
+      "content": "哈哈哈",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-20T11:37:39",
+      "sender": "玮炜",
+      "content": "公司帮我攒钱了",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-20T15:48:25",
+      "sender": "玮炜",
+      "content": "我忙完了",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-20T15:48:32",
+      "sender": "玮炜",
+      "content": "李浩 那个用帮忙不",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-20T15:48:41",
+      "sender": "玮炜",
+      "content": "行吧",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-20T16:50:56",
+      "sender": "玮炜",
+      "content": "[图片]",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-20T16:51:08",
+      "sender": "玮炜",
+      "content": "对我以前停车的时候吧，这旁边如果有一个比较宽大的车，我是很不愿意往里去，是你即便是进去了你也出不来是哎呦，这个是如果你副驾再坐一个人的话，那那种情况下，我一般我我我会让副驾人先下去，是然后我紧靠着你那边下，因为我得下来吗，那这个车，有了它的这个自动泊车技术之后吧，你在停车的时候，永远永远会给你留出一个足够的，一个下车空间。\n（应该有点击中控上自动泊车功能键的画面）\n再就是有时候街边停车，尤其是在北京，经常会碰到那种非常极限的侧方车位。有好几次，自己揉了好几把也没停进去，被后面车滴滴半天，挺尴尬的。现在有了这个易四方泊车2.0，四个电机控制控制四个轮子，做相反的运动，利用轮速差就可以横移着把车停进去。不仅极限车位不怕了，每次用这个功能，后车都拿出手机来录像，哈哈、",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-20T17:36:46",
+      "sender": "玮炜",
+      "content": "[图片]",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-20T17:36:58",
+      "sender": "玮炜",
+      "content": "[图片]",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-20T17:45:31",
+      "sender": "玮炜",
+      "content": "行",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-20T17:45:34",
+      "sender": "玮炜",
+      "content": "挺好",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-06-29T10:55:49",
+      "sender": "玮炜",
+      "content": "小舅子估计在挂机吧，这战绩",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-11T19:09:12",
+      "sender": "玮炜",
+      "content": "哈哈 看到了",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-11T19:09:23",
+      "sender": "玮炜",
+      "content": "网上找的现成的吧",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-11T19:09:24",
+      "sender": "玮炜",
+      "content": "哈哈哈",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-12T21:46:42",
+      "sender": "玮炜",
+      "content": "公司",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-12T21:47:04",
+      "sender": "玮炜",
+      "content": "好的",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-12T21:49:29",
+      "sender": "玮炜",
+      "content": "你看看",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-12T21:49:31",
+      "sender": "玮炜",
+      "content": "传好了",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-12T22:00:55",
+      "sender": "玮炜",
+      "content": "你客气了奥",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-14T15:06:16",
+      "sender": "玮炜",
+      "content": "个你说要要换工位的事情了吗",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-14T15:06:18",
+      "sender": "玮炜",
+      "content": "跟",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-14T15:06:49",
+      "sender": "玮炜",
+      "content": "嗯嗯，刚刚面试的那个市后期？",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-14T15:06:55",
+      "sender": "玮炜",
+      "content": "哦哦",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-21T09:39:27",
+      "sender": "玮炜",
+      "content": "今天来吗",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-21T09:47:02",
+      "sender": "玮炜",
+      "content": "感冒了？",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-21T10:59:19",
+      "sender": "玮炜",
+      "content": "好的，好的，以为你病了，好好玩吧",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-24T12:28:06",
+      "sender": "玮炜",
+      "content": "感觉这个肠 不好吃",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-24T12:28:07",
+      "sender": "玮炜",
+      "content": "上当了",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-24T12:28:28",
+      "sender": "玮炜",
+      "content": "行吧，我是奔着keep去的",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-24T12:28:48",
+      "sender": "玮炜",
+      "content": "NB",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-28T11:31:32",
+      "sender": "玮炜",
+      "content": "没毛病的",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-28T11:31:34",
+      "sender": "玮炜",
+      "content": "写吧",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-28T11:31:43",
+      "sender": "玮炜",
+      "content": "十分期待",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-28T11:31:50",
+      "sender": "玮炜",
+      "content": "5 6 7 三个月",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-28T11:31:53",
+      "sender": "玮炜",
+      "content": "一个季度",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-28T11:32:39",
+      "sender": "玮炜",
+      "content": "一万五？至少两万",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-28T11:33:17",
+      "sender": "玮炜",
+      "content": "写吧，8.1能搞成分镜就挺好",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-28T11:34:02",
+      "sender": "玮炜",
+      "content": "那真行",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-28T11:34:12",
+      "sender": "玮炜",
+      "content": "10万就能金牌",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-28T11:35:03",
+      "sender": "玮炜",
+      "content": "那没毛病 一个季度一篇",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-28T12:40:04",
+      "sender": "玮炜",
+      "content": "哈哈哈",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-28T12:40:21",
+      "sender": "玮炜",
+      "content": "没毛病的",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-28T13:32:56",
+      "sender": "玮炜",
+      "content": "NB",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-28T13:32:58",
+      "sender": "玮炜",
+      "content": "哥！",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-28T13:33:25",
+      "sender": "玮炜",
+      "content": "这个直接看群记录就行了",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-28T13:33:47",
+      "sender": "玮炜",
+      "content": "或者看监控就行了 反正一切都有证据",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-28T13:33:49",
+      "sender": "玮炜",
+      "content": "哈哈哈 好的",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-28T15:59:42",
+      "sender": "玮炜",
+      "content": "哈哈哈 今天下午没事，明早才有暴雨",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-28T15:59:44",
+      "sender": "玮炜",
+      "content": "我刚看了",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-28T16:00:31",
+      "sender": "玮炜",
+      "content": "世界末日啊",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-28T16:00:44",
+      "sender": "玮炜",
+      "content": "哦哦",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-28T16:00:56",
+      "sender": "玮炜",
+      "content": "小心点",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-28T16:01:00",
+      "sender": "玮炜",
+      "content": "你这住的远",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-28T16:01:44",
+      "sender": "玮炜",
+      "content": "溜溜球",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-29T16:19:16",
+      "sender": "玮炜",
+      "content": "三点",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-29T16:19:28",
+      "sender": "玮炜",
+      "content": "我比他还多干一个多小时 [流泪]",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-29T16:19:48",
+      "sender": "玮炜",
+      "content": "哈哈哈",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-29T16:20:02",
+      "sender": "玮炜",
+      "content": "分镜再写一个月",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-29T16:20:04",
+      "sender": "玮炜",
+      "content": "可以了",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-30T15:59:21",
+      "sender": "玮炜",
+      "content": "现在咱们一篇外稿多少钱呀",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-30T15:59:28",
+      "sender": "玮炜",
+      "content": "是都一样的价格么",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-30T15:59:31",
+      "sender": "玮炜",
+      "content": "。。。",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-30T15:59:41",
+      "sender": "玮炜",
+      "content": "可以的",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-30T16:00:11",
+      "sender": "玮炜",
+      "content": "感觉我还不如去干外稿",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-30T16:00:27",
+      "sender": "玮炜",
+      "content": "行",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-30T16:00:35",
+      "sender": "玮炜",
+      "content": "是这意思",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-30T16:01:15",
+      "sender": "玮炜",
+      "content": "研究下",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-30T16:01:25",
+      "sender": "玮炜",
+      "content": "主要是比我工资还高，多少心里有点不平衡",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-30T16:01:44",
+      "sender": "玮炜",
+      "content": "难搞",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-30T16:03:22",
+      "sender": "玮炜",
+      "content": "真有点难泵",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-30T16:05:25",
+      "sender": "玮炜",
+      "content": "哈哈哈",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-30T16:05:34",
+      "sender": "玮炜",
+      "content": "最佳助攻 沙发",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-30T16:06:15",
+      "sender": "玮炜",
+      "content": "就是敲起来 也不是很快",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-30T16:06:16",
+      "sender": "玮炜",
+      "content": "哈哈哈",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-30T16:07:34",
+      "sender": "玮炜",
+      "content": "没毛病的",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-30T16:07:47",
+      "sender": "玮炜",
+      "content": "一切都有数据",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-30T16:09:21",
+      "sender": "玮炜",
+      "content": "说他效率高，应该是没看每个月绩效",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-30T16:09:28",
+      "sender": "玮炜",
+      "content": "如果看了，说不出这话",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-30T16:10:19",
+      "sender": "玮炜",
+      "content": "那倒不用上升到这个高度",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-30T16:10:26",
+      "sender": "玮炜",
+      "content": "不用肢体接触",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-07-30T16:10:34",
+      "sender": "玮炜",
+      "content": "嗯",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-08T14:53:13",
+      "sender": "玮炜",
+      "content": "都没有",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-08T14:53:15",
+      "sender": "玮炜",
+      "content": "等推送",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-08T14:53:25",
+      "sender": "玮炜",
+      "content": "估计三四天以后",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-10T14:06:12",
+      "sender": "玮炜",
+      "content": "看用途",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-10T14:06:18",
+      "sender": "玮炜",
+      "content": "你要是骑车，运动",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-10T14:06:29",
+      "sender": "玮炜",
+      "content": "就买gopro或者action",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-10T14:06:34",
+      "sender": "玮炜",
+      "content": "要是vlog",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-10T14:06:37",
+      "sender": "玮炜",
+      "content": "就pocket",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-10T14:10:26",
+      "sender": "玮炜",
+      "content": "OK",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-10T14:10:30",
+      "sender": "玮炜",
+      "content": "那没毛病",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-10T14:12:14",
+      "sender": "玮炜",
+      "content": "建议你先从手机开始",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-10T16:09:03",
+      "sender": "玮炜",
+      "content": "[位置] 于庄村(燕赵大街) 安新县燕赵大街 (39.021801,115.941750)",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-10T16:09:09",
+      "sender": "玮炜",
+      "content": "出来玩了",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-11T10:42:43",
+      "sender": "玮炜",
+      "content": "铁子 上午请假了",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-13T14:28:10",
+      "sender": "玮炜",
+      "content": "不是",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-13T14:28:18",
+      "sender": "玮炜",
+      "content": "iapd只有pro系列是高数啊",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-13T14:28:22",
+      "sender": "玮炜",
+      "content": "高刷",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-13T14:28:25",
+      "sender": "玮炜",
+      "content": "刀法精准",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-13T14:28:59",
+      "sender": "玮炜",
+      "content": "哈哈哈",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-13T15:05:01",
+      "sender": "玮炜",
+      "content": "咱们现在b站的稿子都多少字啊",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-13T15:05:03",
+      "sender": "玮炜",
+      "content": "一般来讲",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-13T15:05:19",
+      "sender": "玮炜",
+      "content": "。。。",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-13T15:05:25",
+      "sender": "玮炜",
+      "content": "这也太多了吧",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-13T15:13:22",
+      "sender": "玮炜",
+      "content": "我在看隔壁差评，发现它们都是10分钟左右的",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-13T15:13:32",
+      "sender": "玮炜",
+      "content": "后来看了下小lin，的确都是20多分钟的",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-13T15:16:28",
+      "sender": "玮炜",
+      "content": "是的",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-13T15:16:55",
+      "sender": "玮炜",
+      "content": "感觉是两个方向吧，产经字数的确需要多一些，需要更多的前置知识，才能把中心思想输出给读者",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-16T15:37:17",
+      "sender": "玮炜",
+      "content": "你在家呢吗",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-16T15:37:35",
+      "sender": "玮炜",
+      "content": "待会我送电视过去",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-16T16:06:10",
+      "sender": "玮炜",
+      "content": "好的 待会把电视搬过去",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-16T16:06:30",
+      "sender": "玮炜",
+      "content": "来 电视在公司呢",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-16T16:06:36",
+      "sender": "玮炜",
+      "content": "上不了一点，我过去就帮你掉分了",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-16T16:28:33",
+      "sender": "玮炜",
+      "content": "狗哥家地址 发我下",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-16T16:53:52",
+      "sender": "玮炜",
+      "content": "好的",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-16T16:53:59",
+      "sender": "玮炜",
+      "content": "货拉拉过去咯",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-17T14:56:48",
+      "sender": "玮炜",
+      "content": "你出去了？",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-17T15:00:29",
+      "sender": "玮炜",
+      "content": "没事 就看你没在 随便问问",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-17T15:00:53",
+      "sender": "玮炜",
+      "content": "牛逼",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-17T16:19:51",
+      "sender": "玮炜",
+      "content": "骗人",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-18T09:01:51",
+      "sender": "玮炜",
+      "content": "GoPro或者action吧",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-18T09:32:23",
+      "sender": "玮炜",
+      "content": "[表情包]",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-18T09:52:07",
+      "sender": "玮炜",
+      "content": "这个刚才又查了下，应该是小米的",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-18T09:52:25",
+      "sender": "玮炜",
+      "content": "https://itech.ifeng.com/44676922/news.shtml",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-19T11:07:37",
+      "sender": "玮炜",
+      "content": "哈哈哈",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-19T11:07:41",
+      "sender": "玮炜",
+      "content": "我得估计也不行，你试试",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-19T11:07:43",
+      "sender": "玮炜",
+      "content": "18531601362",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-19T11:08:16",
+      "sender": "玮炜",
+      "content": "353",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-19T11:08:18",
+      "sender": "玮炜",
+      "content": "216",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-19T15:38:34",
+      "sender": "玮炜",
+      "content": "估计6点左右",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-19T17:53:22",
+      "sender": "玮炜",
+      "content": "准备",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-19T17:53:23",
+      "sender": "玮炜",
+      "content": "走啊",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-19T20:48:27",
+      "sender": "玮炜",
+      "content": "溜了 明天见",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-19T21:04:10",
+      "sender": "玮炜",
+      "content": "王者每个段位胜利几把晋级？你知道吗",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-19T21:05:58",
+      "sender": "玮炜",
+      "content": "好",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-20T11:28:07",
+      "sender": "玮炜",
+      "content": "还开会吗",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-20T11:35:08",
+      "sender": "玮炜",
+      "content": "nb",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-20T12:23:50",
+      "sender": "玮炜",
+      "content": "哎",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-20T12:23:59",
+      "sender": "玮炜",
+      "content": "听的难受",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-25T11:39:21",
+      "sender": "玮炜",
+      "content": "到了",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-25T11:39:32",
+      "sender": "玮炜",
+      "content": "刚开完会",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-25T11:40:53",
+      "sender": "玮炜",
+      "content": "[表情包]",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-26T10:47:18",
+      "sender": "玮炜",
+      "content": "看不出来 宝",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-26T10:47:28",
+      "sender": "玮炜",
+      "content": "竖折叠 大概率三星吧",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-26T10:47:41",
+      "sender": "玮炜",
+      "content": "哦",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-26T10:47:55",
+      "sender": "玮炜",
+      "content": "那地球上应该没这种手机，大概率就是屏幕",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-26T10:48:09",
+      "sender": "玮炜",
+      "content": "上半截就是屏幕，下半截连着主机",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-26T10:48:17",
+      "sender": "玮炜",
+      "content": "否则不可能这么薄",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-26T10:49:18",
+      "sender": "玮炜",
+      "content": "把现在手机拆了，按照这个方法是能做到的，因为oled屏幕本身很薄[引用 玮炜：上半截就是屏幕，下半截连着主机]",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-26T10:49:30",
+      "sender": "玮炜",
+      "content": "一眼宇树",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-26T10:49:31",
+      "sender": "玮炜",
+      "content": "G1",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-26T10:49:48",
+      "sender": "玮炜",
+      "content": "对 主要是便宜",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-28T10:23:02",
+      "sender": "玮炜",
+      "content": "吴哥今天上午来百度参加个会，午饭时间回去。",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-28T16:51:37",
+      "sender": "玮炜",
+      "content": "老款单反",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-28T16:51:42",
+      "sender": "玮炜",
+      "content": "感觉不是很值钱的样子",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-29T13:52:07",
+      "sender": "玮炜",
+      "content": "三点多吧",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-29T13:52:38",
+      "sender": "玮炜",
+      "content": "行啊 你没事了？",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-29T13:54:15",
+      "sender": "玮炜",
+      "content": "ok",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-29T13:55:37",
+      "sender": "玮炜",
+      "content": "不用了。。。 我赶紧拍完就想回去躺着了",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-29T13:56:42",
+      "sender": "玮炜",
+      "content": "我估计今天拍不完",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-29T13:58:26",
+      "sender": "玮炜",
+      "content": "真顾不上吃，兄弟，明天再说吧，你该休息就休息",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-29T15:51:02",
+      "sender": "玮炜",
+      "content": "准备",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-08-29T15:51:04",
+      "sender": "玮炜",
+      "content": "5分钟",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-01T10:42:21",
+      "sender": "玮炜",
+      "content": "兄弟 昨天还有俩慢放视频",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-01T10:42:22",
+      "sender": "玮炜",
+      "content": "发我下",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-01T10:42:48",
+      "sender": "玮炜",
+      "content": "OK",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-01T18:21:37",
+      "sender": "玮炜",
+      "content": "晚上跟我打车回去？",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-01T18:21:39",
+      "sender": "玮炜",
+      "content": "我去补拍",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-01T18:22:36",
+      "sender": "玮炜",
+      "content": "七点下班吧",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-01T18:23:06",
+      "sender": "玮炜",
+      "content": "需要确认下补拍的素材",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-01T21:11:23",
+      "sender": "玮炜",
+      "content": "溜了 记得发给我",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-02T19:29:58",
+      "sender": "玮炜",
+      "content": "吴哥，有空帮我看看这俩",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-02T19:30:01",
+      "sender": "玮炜",
+      "content": "[图片]",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-02T19:30:21",
+      "sender": "玮炜",
+      "content": "应该在电视或者那个大包装上",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-02T19:30:37",
+      "sender": "玮炜",
+      "content": "一个是电视 一个是手柄遥控",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-02T19:30:47",
+      "sender": "玮炜",
+      "content": "包装上没有 就在电视背后可能",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-02T19:30:49",
+      "sender": "玮炜",
+      "content": "谢谢",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-02T20:29:10",
+      "sender": "玮炜",
+      "content": "谢谢吴哥",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-02T20:29:18",
+      "sender": "玮炜",
+      "content": "[表情包]",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-02T20:30:00",
+      "sender": "玮炜",
+      "content": "这个麻烦发个原图，看不清后面的字[引用 lockin：[图片]]",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-02T20:36:00",
+      "sender": "玮炜",
+      "content": "OK",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-05T10:06:20",
+      "sender": "玮炜",
+      "content": "https://www.bilibili.com/video/BV1xTaQzHEqJ/?spm_id_from=333.337.search-card.all.click&vd_source=2918870db82535f97f4863213ab22a29",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-05T10:06:30",
+      "sender": "玮炜",
+      "content": "大爆特爆",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-05T10:10:59",
+      "sender": "玮炜",
+      "content": "很多的",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-05T10:11:08",
+      "sender": "玮炜",
+      "content": "那会就是假赛横行",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-05T10:11:14",
+      "sender": "玮炜",
+      "content": "大家都打，后来环境好多了",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-05T10:11:28",
+      "sender": "玮炜",
+      "content": "但没想到，这个阴霾一直都在cncs",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-05T10:11:59",
+      "sender": "玮炜",
+      "content": "太逆天了的，没想major还作弊",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-05T10:12:08",
+      "sender": "玮炜",
+      "content": "都在吃菠菜",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-05T10:16:58",
+      "sender": "玮炜",
+      "content": "太黑暗了，兄弟",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-05T10:17:03",
+      "sender": "玮炜",
+      "content": "跟TM CNDOTA一样",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-05T10:54:53",
+      "sender": "玮炜",
+      "content": "[图片]",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-05T11:59:33",
+      "sender": "玮炜",
+      "content": "哈哈哈",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-05T11:59:36",
+      "sender": "玮炜",
+      "content": "PS下岗",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-09T15:39:24",
+      "sender": "玮炜",
+      "content": "[图片]",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-09T15:45:20",
+      "sender": "玮炜",
+      "content": "又涨了？",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-09T15:45:49",
+      "sender": "玮炜",
+      "content": "我草",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-09T15:45:51",
+      "sender": "玮炜",
+      "content": "我看看",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-09T15:53:47",
+      "sender": "玮炜",
+      "content": "俊哥出差回来",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-09T15:53:55",
+      "sender": "玮炜",
+      "content": "他昨天出差了",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-10T17:10:34",
+      "sender": "玮炜",
+      "content": "发吧，我写完估计8点",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-10T17:10:41",
+      "sender": "玮炜",
+      "content": "我待会让他做个头图",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-10T20:48:33",
+      "sender": "玮炜",
+      "content": "https://humr82ftfx.feishu.cn/wiki/M1bzwcPV6iFqXBkG02zcSNwPndh?from=from_copylink",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-10T20:48:43",
+      "sender": "玮炜",
+      "content": "吴哥 你看看",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-10T20:48:45",
+      "sender": "玮炜",
+      "content": "没问题我去排版",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-10T20:50:24",
+      "sender": "玮炜",
+      "content": "好的",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-15T12:22:17",
+      "sender": "玮炜",
+      "content": "。。。",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-15T12:22:19",
+      "sender": "玮炜",
+      "content": "NB",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-15T12:22:35",
+      "sender": "玮炜",
+      "content": "昨晚没走吧",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-15T12:23:02",
+      "sender": "玮炜",
+      "content": "nb",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-15T12:23:12",
+      "sender": "玮炜",
+      "content": "让海燕盯着点吧",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-15T12:24:04",
+      "sender": "玮炜",
+      "content": "哈哈哈，国电股东了",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-16T17:19:38",
+      "sender": "玮炜",
+      "content": "谷歌的gemini吧",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-17T11:50:27",
+      "sender": "玮炜",
+      "content": "没有。。。",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-17T11:50:35",
+      "sender": "玮炜",
+      "content": "那个相机",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-17T11:50:38",
+      "sender": "玮炜",
+      "content": "就那一个",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-17T11:50:41",
+      "sender": "玮炜",
+      "content": "太老了",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-17T11:50:59",
+      "sender": "玮炜",
+      "content": "你问问梓哥",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-18T01:40:52",
+      "sender": "玮炜",
+      "content": "必须有，吃喝都给你安排好",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-18T11:48:57",
+      "sender": "玮炜",
+      "content": "自助你不吃？全是龙虾 帝王蟹",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-18T11:49:33",
+      "sender": "玮炜",
+      "content": "帝王蟹随便吃",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-18T11:52:38",
+      "sender": "玮炜",
+      "content": "来点鱼翅",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-18T11:53:06",
+      "sender": "玮炜",
+      "content": "M12 和牛",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-18T11:55:17",
+      "sender": "玮炜",
+      "content": "我们这太苦逼了",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-18T11:55:27",
+      "sender": "玮炜",
+      "content": "忙的飞起",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-18T11:55:47",
+      "sender": "玮炜",
+      "content": "拍广告",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-21T10:21:37",
+      "sender": "玮炜",
+      "content": "回来了",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-22T12:18:36",
+      "sender": "玮炜",
+      "content": "收到",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-09-29T17:56:51",
+      "sender": "玮炜",
+      "content": "拜拜",
+      "weight": 0.25
+    },
+    {
+      "timestamp": "2025-10-20T12:18:02",
+      "sender": "玮炜",
+      "content": "那就行，我自己吃的那个虾不太行",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-20T14:02:07",
+      "sender": "玮炜",
+      "content": "没有",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-20T19:16:07",
+      "sender": "玮炜",
+      "content": "在",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-20T19:17:55",
+      "sender": "玮炜",
+      "content": "[图片]",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-23T20:22:41",
+      "sender": "玮炜",
+      "content": "对。。。",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-23T20:22:47",
+      "sender": "玮炜",
+      "content": "被你发现了",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-24T10:04:48",
+      "sender": "玮炜",
+      "content": "吴哥",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-24T10:04:53",
+      "sender": "玮炜",
+      "content": "不太对劲啊",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-24T10:05:05",
+      "sender": "玮炜",
+      "content": "饰品已经跌一半了",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-24T10:05:08",
+      "sender": "玮炜",
+      "content": "你呢",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-24T10:05:45",
+      "sender": "玮炜",
+      "content": "麻了",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-24T10:06:45",
+      "sender": "玮炜",
+      "content": "难泵",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-26T18:55:46",
+      "sender": "玮炜",
+      "content": "牛逼",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-26T18:56:02",
+      "sender": "玮炜",
+      "content": "修的还提快的",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-26T18:56:23",
+      "sender": "玮炜",
+      "content": "又能玩饰品了",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-26T18:56:29",
+      "sender": "玮炜",
+      "content": "[流泪]",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-26T18:56:44",
+      "sender": "玮炜",
+      "content": "保修期内都免费的",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-26T18:56:51",
+      "sender": "玮炜",
+      "content": "我亏了五千",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-26T18:56:55",
+      "sender": "玮炜",
+      "content": "难崩",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-26T18:57:52",
+      "sender": "玮炜",
+      "content": "没事 最近又涨点",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-26T18:58:01",
+      "sender": "玮炜",
+      "content": "我准备月底买个手套",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-26T18:58:11",
+      "sender": "玮炜",
+      "content": "迈阿密，五千多就能买了",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-26T18:58:16",
+      "sender": "玮炜",
+      "content": "以前想都不敢想",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-26T18:58:35",
+      "sender": "玮炜",
+      "content": "嗯 就等月底",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-26T18:58:44",
+      "sender": "玮炜",
+      "content": "嗯嗯",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-27T12:26:08",
+      "sender": "玮炜",
+      "content": "感觉和普通没啥区别",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-27T12:26:16",
+      "sender": "玮炜",
+      "content": "你要想体验，随便买个便宜点的",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-27T12:26:20",
+      "sender": "玮炜",
+      "content": "2k左右",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-27T12:26:39",
+      "sender": "玮炜",
+      "content": "那国内没有",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-27T12:27:34",
+      "sender": "玮炜",
+      "content": "嗯，这个还有不少小的附加功能",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-27T12:28:03",
+      "sender": "玮炜",
+      "content": "。。。",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-27T12:28:13",
+      "sender": "玮炜",
+      "content": "你快上小红书了，被集美通缉了",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-27T12:28:53",
+      "sender": "玮炜",
+      "content": "还得是你",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-29T11:34:05",
+      "sender": "玮炜",
+      "content": "开会",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-29T11:34:08",
+      "sender": "玮炜",
+      "content": "了",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-29T17:06:48",
+      "sender": "玮炜",
+      "content": "ok",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-29T17:22:55",
+      "sender": "玮炜",
+      "content": "[图片]",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-29T17:23:45",
+      "sender": "玮炜",
+      "content": "估计也不行",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-29T17:23:53",
+      "sender": "玮炜",
+      "content": "嗯",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-29T17:31:31",
+      "sender": "玮炜",
+      "content": "[视频]",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-29T17:38:36",
+      "sender": "玮炜",
+      "content": "[视频]",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-29T17:39:19",
+      "sender": "玮炜",
+      "content": "CES0Y0",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-29T21:58:45",
+      "sender": "玮炜",
+      "content": "[链接]诺基亚和英伟达勾搭到一起，背后是2000亿的大买卖",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-29T21:58:58",
+      "sender": "玮炜",
+      "content": "吴哥，你看看有问题吗",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-29T22:03:47",
+      "sender": "玮炜",
+      "content": "ok",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-10-31T14:11:16",
+      "sender": "玮炜",
+      "content": "[文件]2025年10月31日 14点09分.m4a",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-03T10:06:22",
+      "sender": "玮炜",
+      "content": "吴哥，我上午请假了",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-04T15:11:29",
+      "sender": "玮炜",
+      "content": "IEM了",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-04T15:11:33",
+      "sender": "玮炜",
+      "content": "给玩机器送个飞机",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-05T10:56:51",
+      "sender": "玮炜",
+      "content": "吴哥，待会我和俊哥去参加个试驾",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-05T10:56:57",
+      "sender": "玮炜",
+      "content": "估计参加不了选题会了",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-05T10:57:12",
+      "sender": "玮炜",
+      "content": "OK",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-06T14:52:42",
+      "sender": "玮炜",
+      "content": "有人写了吗 小鹏这个",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-06T14:53:11",
+      "sender": "玮炜",
+      "content": "哦哦 我这边忙完了，没人写 我来弄",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-06T15:02:15",
+      "sender": "玮炜",
+      "content": "嗯嗯 那正好的 我就剪昨天拍的视频了",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-06T15:57:26",
+      "sender": "玮炜",
+      "content": "讲电竞设备的",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-06T15:57:34",
+      "sender": "玮炜",
+      "content": "肯定得有",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-06T15:57:37",
+      "sender": "玮炜",
+      "content": "cs之子",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-06T15:58:01",
+      "sender": "玮炜",
+      "content": "你问问 梓哥 ，他说送，我要个GPW最新款",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-06T15:58:05",
+      "sender": "玮炜",
+      "content": "哈哈哈",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-07T17:07:33",
+      "sender": "玮炜",
+      "content": "行",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-07T17:07:42",
+      "sender": "玮炜",
+      "content": "哈哈哈哈",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-07T17:07:55",
+      "sender": "玮炜",
+      "content": "等出差回来的",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-08T17:12:28",
+      "sender": "玮炜",
+      "content": "那就周一去公司，他桌子上有一个手柄我记得",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-08T17:13:25",
+      "sender": "玮炜",
+      "content": "哈哈哈哈",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-10T07:31:21",
+      "sender": "玮炜",
+      "content": "吴哥",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-10T07:31:50",
+      "sender": "玮炜",
+      "content": "麻烦把地下室的三脚架拿过来",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-10T07:31:53",
+      "sender": "玮炜",
+      "content": "谢谢",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-10T07:32:03",
+      "sender": "玮炜",
+      "content": "地下室应该有个三脚架",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-10T07:32:08",
+      "sender": "玮炜",
+      "content": "没记错的话",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-10T07:32:13",
+      "sender": "玮炜",
+      "content": "出差要用",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-11T15:16:33",
+      "sender": "玮炜",
+      "content": "对",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-11T15:17:00",
+      "sender": "玮炜",
+      "content": "上海郊区",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-11T15:17:16",
+      "sender": "玮炜",
+      "content": "人嘛了",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-11T15:19:33",
+      "sender": "玮炜",
+      "content": "活儿不好干",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-11T15:20:55",
+      "sender": "玮炜",
+      "content": "你还不理解我？我认真的很",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-11T15:27:50",
+      "sender": "玮炜",
+      "content": "[表情包]",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-11T15:27:55",
+      "sender": "玮炜",
+      "content": "已经挺不住了",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-11T15:28:07",
+      "sender": "玮炜",
+      "content": "已经冒出离职的想法了",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-11T15:28:32",
+      "sender": "玮炜",
+      "content": "这是真离职",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-11T15:28:35",
+      "sender": "玮炜",
+      "content": "干不动了",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-11T15:28:40",
+      "sender": "玮炜",
+      "content": "就我和狗哥，我俩",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-11T15:28:52",
+      "sender": "玮炜",
+      "content": "有拍摄，有想创意",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-11T15:28:58",
+      "sender": "玮炜",
+      "content": "有写脚本",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-11T15:29:08",
+      "sender": "玮炜",
+      "content": "他负责采访",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-11T15:29:21",
+      "sender": "玮炜",
+      "content": "出镜",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-14T10:43:26",
+      "sender": "玮炜",
+      "content": "嗯嗯",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-14T10:43:31",
+      "sender": "玮炜",
+      "content": "我们三点多到北京",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-14T10:43:52",
+      "sender": "玮炜",
+      "content": "[流泪][流泪][流泪]",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-24T14:10:31",
+      "sender": "玮炜",
+      "content": "bro  你闻道什么奇怪的味道吗",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-24T14:10:55",
+      "sender": "玮炜",
+      "content": "难绷了",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-24T14:10:58",
+      "sender": "玮炜",
+      "content": "呆不住了",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-24T14:11:55",
+      "sender": "玮炜",
+      "content": "熏得受不了了",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-28T10:22:03",
+      "sender": "玮炜",
+      "content": "是",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-28T10:22:24",
+      "sender": "玮炜",
+      "content": "不知道呢 听梓哥安排",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-11-28T10:28:08",
+      "sender": "玮炜",
+      "content": "6",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-12-26T00:06:13",
+      "sender": "玮炜",
+      "content": "计划明早9点",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-12-26T00:06:49",
+      "sender": "玮炜",
+      "content": "？",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-12-26T00:06:53",
+      "sender": "玮炜",
+      "content": "咋了，宝儿",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-12-26T00:06:59",
+      "sender": "玮炜",
+      "content": "不影响你",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-12-26T00:07:04",
+      "sender": "玮炜",
+      "content": "对啊",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-12-26T00:07:11",
+      "sender": "玮炜",
+      "content": "家里就两个镜头",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2025-12-26T00:07:16",
+      "sender": "玮炜",
+      "content": "行 看你了",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2026-01-05T20:18:30",
+      "sender": "玮炜",
+      "content": "好",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2026-01-06T11:01:35",
+      "sender": "玮炜",
+      "content": "收到",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2026-01-06T16:02:27",
+      "sender": "玮炜",
+      "content": "还没",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2026-01-06T16:02:34",
+      "sender": "玮炜",
+      "content": "待会写好发给你",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2026-01-06T18:11:28",
+      "sender": "玮炜",
+      "content": "https://humr82ftfx.feishu.cn/wiki/OMobwwei5i293Lk5mEacoFfxnhc?from=from_copylink",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2026-01-06T18:11:47",
+      "sender": "玮炜",
+      "content": "[表情包]",
+      "weight": 0.5
+    },
+    {
+      "timestamp": "2026-01-07T14:41:07",
+      "sender": "玮炜",
+      "content": "可以的",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-07T14:41:12",
+      "sender": "玮炜",
+      "content": "这个时差很舒服",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-07T14:41:25",
+      "sender": "玮炜",
+      "content": "不是吧",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-07T14:42:06",
+      "sender": "玮炜",
+      "content": "那边10点多",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-07T14:42:14",
+      "sender": "玮炜",
+      "content": "估计时差还没到好",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-07T17:55:45",
+      "sender": "玮炜",
+      "content": "https://humr82ftfx.feishu.cn/wiki/EA4PwbLAUih8rBkrMyHckEk2nNb?from=from_copylink",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-07T17:55:49",
+      "sender": "玮炜",
+      "content": "请查收",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-07T17:56:53",
+      "sender": "玮炜",
+      "content": "9月份 苹果发布会再看吧",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-14T17:44:35",
+      "sender": "玮炜",
+      "content": "https://humr82ftfx.feishu.cn/wiki/U9DHwyVGFiEnPXkMLJmc3GYvnJc?from=from_copylink",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-14T17:44:39",
+      "sender": "玮炜",
+      "content": "请查收",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-14T18:00:45",
+      "sender": "玮炜",
+      "content": "ok",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-16T14:58:31",
+      "sender": "玮炜",
+      "content": "\"玮炜\" 撤回了一条消息0",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-16T14:58:33",
+      "sender": "玮炜",
+      "content": "行啊",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-16T14:58:49",
+      "sender": "玮炜",
+      "content": "可以的",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-16T14:59:09",
+      "sender": "玮炜",
+      "content": "但这样，不会出错么",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-16T14:59:50",
+      "sender": "玮炜",
+      "content": "反正注意别让AI瞎说就行，到时候再来个造谣就难崩了",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-16T15:00:09",
+      "sender": "玮炜",
+      "content": "对。。。",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-16T15:00:40",
+      "sender": "玮炜",
+      "content": "反正你double check了信源就行",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-16T15:00:45",
+      "sender": "玮炜",
+      "content": "\"玮炜\" 撤回了一条消息0",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-16T15:00:49",
+      "sender": "玮炜",
+      "content": "有理有据就没事",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-16T15:08:21",
+      "sender": "玮炜",
+      "content": "这个谁你改后的吧，风格和你很像[引用 lockin：https://humr82ftfx.feishu.cn/wiki/Tfp7wXCFfiwGPwkGP2pczCu8nqb?edition_id=yzdRRl]",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-16T15:08:39",
+      "sender": "玮炜",
+      "content": "。。。",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-16T15:09:08",
+      "sender": "玮炜",
+      "content": "没想到它能复制的这么好",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-16T15:09:15",
+      "sender": "玮炜",
+      "content": "我看完了 以为是你改了一遍",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-16T15:10:10",
+      "sender": "玮炜",
+      "content": "嗯嗯，那看来点睛的几个梗都是你改的",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-16T15:10:14",
+      "sender": "玮炜",
+      "content": "感觉AI还没这么灵性",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-16T15:10:44",
+      "sender": "玮炜",
+      "content": "我的文风没啥特点，也不搞笑，AI估计比我写得好",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-16T15:11:13",
+      "sender": "玮炜",
+      "content": "不知道。。。",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-16T15:11:22",
+      "sender": "玮炜",
+      "content": "实在不行 就开热点吧",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-16T17:21:42",
+      "sender": "玮炜",
+      "content": "[图片]",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-16T17:21:47",
+      "sender": "玮炜",
+      "content": "梓哥说换个。。。",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-16T17:21:54",
+      "sender": "玮炜",
+      "content": "怕出事",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-16T17:27:41",
+      "sender": "玮炜",
+      "content": "嗯呢",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-16T17:27:47",
+      "sender": "玮炜",
+      "content": "这视频你用grok生成的？",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-16T17:28:06",
+      "sender": "玮炜",
+      "content": "清晰度还行",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-20T09:57:25",
+      "sender": "玮炜",
+      "content": "不好意思，稿子拖了下，今天午饭时间左右给你哦，吴哥",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-20T13:41:43",
+      "sender": "玮炜",
+      "content": "没有，1hour",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-20T13:48:22",
+      "sender": "玮炜",
+      "content": "我说下我的想法，这几期播放量也太拉了，如果靠堆量，不如想想咋把稿子写好。所以这期比较慢",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-20T13:48:27",
+      "sender": "玮炜",
+      "content": "如果跑通了，后面会比较快",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-20T13:49:02",
+      "sender": "玮炜",
+      "content": "好的",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-20T13:49:15",
+      "sender": "玮炜",
+      "content": "主要是 一直没有一个明确的目标",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-20T13:49:18",
+      "sender": "玮炜",
+      "content": "不知道到底是要搞啥",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-20T13:49:21",
+      "sender": "玮炜",
+      "content": "一会东一会西",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-20T15:04:05",
+      "sender": "玮炜",
+      "content": "https://humr82ftfx.feishu.cn/wiki/EMaxwBebmi2doGkNxUPcu9lenWc?from=from_copylink",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-20T15:04:13",
+      "sender": "玮炜",
+      "content": "https://humr82ftfx.feishu.cn/wiki/EMaxwBebmi2doGkNxUPcu9lenWc?from=from_copylink",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-20T15:04:16",
+      "sender": "玮炜",
+      "content": "你先看看 咋样",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-20T15:04:31",
+      "sender": "玮炜",
+      "content": "有啥问题 改完的终稿也发给我看看 我看下哪里需要改",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-20T15:04:39",
+      "sender": "玮炜",
+      "content": "或者又需要改的地方跟我说下",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-20T15:16:47",
+      "sender": "玮炜",
+      "content": "[表情包]",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-20T15:16:50",
+      "sender": "玮炜",
+      "content": "学到了",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-20T15:17:07",
+      "sender": "玮炜",
+      "content": "可以啊",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-20T15:17:18",
+      "sender": "玮炜",
+      "content": "对，AI写的没有人味儿",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-20T15:17:34",
+      "sender": "玮炜",
+      "content": "你得按你的风格改下",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-20T15:17:38",
+      "sender": "玮炜",
+      "content": "好的",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-20T15:18:31",
+      "sender": "玮炜",
+      "content": "我在看其他热点 能不能找个选题出来",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-20T15:19:52",
+      "sender": "玮炜",
+      "content": "嗯！",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-20T15:23:44",
+      "sender": "玮炜",
+      "content": "我看下",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-20T15:29:20",
+      "sender": "玮炜",
+      "content": "这个网址咋这么怪 有原地址吗[引用 lockin：https://www.weareiowa.com/article/news/local/plea-agreement-reached-in-des-moines-murder-trial/524-3069d9d4-6f9b-4039-b884-1d2146bd744f?y-news-27734784-2026-01-15-betamatic-insights-into-the-global-memory-shortage-driven-by-theft-incidents]",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-20T15:30:08",
+      "sender": "玮炜",
+      "content": "嗯",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-21T11:52:56",
+      "sender": "玮炜",
+      "content": "copy",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-21T13:51:02",
+      "sender": "玮炜",
+      "content": "待会和后期简单开个小分镜会，10分钟 你来嘛",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-21T13:51:14",
+      "sender": "玮炜",
+      "content": "好",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-21T13:51:19",
+      "sender": "玮炜",
+      "content": "我去找个地方",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-21T16:38:34",
+      "sender": "玮炜",
+      "content": "马斯克和奥特曼打架，试了半天，都不行。。。换成抽雪茄？",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-21T16:39:08",
+      "sender": "玮炜",
+      "content": "ok",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-21T19:56:34",
+      "sender": "玮炜",
+      "content": "伟哥 在公司",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-21T20:02:57",
+      "sender": "玮炜",
+      "content": "很牛逼",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-21T20:02:59",
+      "sender": "玮炜",
+      "content": "看不出啥毛病",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-21T20:03:11",
+      "sender": "玮炜",
+      "content": "hook 和 深度都有了",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-21T20:05:42",
+      "sender": "玮炜",
+      "content": "我没看明白，这一系列都是AI自己操控的，它用一个大的agnet，写了一批小agent？",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-21T20:31:53",
+      "sender": "玮炜",
+      "content": "好的",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-21T20:32:17",
+      "sender": "玮炜",
+      "content": "\"玮炜\" 撤回了一条消息0",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-21T20:32:48",
+      "sender": "玮炜",
+      "content": "搜嘎，我以为时间戳也是ai搞[引用 lockin：每个时间段我操作了啥]",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-21T20:32:52",
+      "sender": "玮炜",
+      "content": "那就太牛逼了",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-21T20:45:53",
+      "sender": "玮炜",
+      "content": "对，必须要改，节奏，啥的ai都还不行",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-21T20:45:58",
+      "sender": "玮炜",
+      "content": "哈哈哈",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-21T20:46:07",
+      "sender": "玮炜",
+      "content": "明白",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-21T20:46:15",
+      "sender": "玮炜",
+      "content": "是的",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-21T20:49:30",
+      "sender": "玮炜",
+      "content": "但还有一些流程上问题，明天开会我和你细说",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-21T20:58:24",
+      "sender": "玮炜",
+      "content": "OKOK",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-22T11:44:56",
+      "sender": "玮炜",
+      "content": "所以我们定位就是科技",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-22T11:45:06",
+      "sender": "玮炜",
+      "content": "财经一些方向也不碰了吧",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-22T11:45:13",
+      "sender": "玮炜",
+      "content": "嗯",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-22T11:45:40",
+      "sender": "玮炜",
+      "content": "对",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-22T11:45:45",
+      "sender": "玮炜",
+      "content": "只能我们去挖掘",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-22T11:45:53",
+      "sender": "玮炜",
+      "content": "ok",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-22T13:43:59",
+      "sender": "玮炜",
+      "content": "你看看有啥新观点吗，还是找知识增量，如果还和其他差不多，那感觉可能没意思",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-22T13:44:34",
+      "sender": "玮炜",
+      "content": "那就别搞了",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-22T13:48:47",
+      "sender": "玮炜",
+      "content": "有gtc 一些的总结",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-22T13:48:53",
+      "sender": "玮炜",
+      "content": "有过",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-22T13:49:44",
+      "sender": "玮炜",
+      "content": "忘了。。。太早了",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-22T14:22:09",
+      "sender": "玮炜",
+      "content": "可以的",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-22T14:22:13",
+      "sender": "玮炜",
+      "content": "感觉这个素材很好",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-22T18:47:57",
+      "sender": "玮炜",
+      "content": "https://humr82ftfx.feishu.cn/wiki/TL3YwlcduiK9hmkrQW5cfDoxn2b?from=from_copylink",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-22T18:48:03",
+      "sender": "玮炜",
+      "content": "感觉像写了一个广告。。。",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-22T18:48:07",
+      "sender": "玮炜",
+      "content": "感觉差点意思",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-22T18:48:09",
+      "sender": "玮炜",
+      "content": "你看看",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-22T21:51:53",
+      "sender": "玮炜",
+      "content": "能改吗？不能改就抛了",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-22T21:52:06",
+      "sender": "玮炜",
+      "content": "牛逼",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-22T21:52:23",
+      "sender": "玮炜",
+      "content": "你这个孩子们",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-22T21:52:26",
+      "sender": "玮炜",
+      "content": "是个梗吗",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-22T21:52:36",
+      "sender": "玮炜",
+      "content": "哦哦哦",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-22T21:52:44",
+      "sender": "玮炜",
+      "content": "是的",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-22T21:56:22",
+      "sender": "玮炜",
+      "content": "这个后面有点意思[引用 lockin：https://humr82ftfx.feishu.cn/docx/FpjZdu9l4oHZajxjSqscST8Znbb\n\n这是我今天的伟哥]",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-22T21:57:03",
+      "sender": "玮炜",
+      "content": "有 我明天找找[引用 lockin：就是华为人山人海]",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-23T11:02:34",
+      "sender": "玮炜",
+      "content": "[图片]",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-23T11:02:40",
+      "sender": "玮炜",
+      "content": "https://archive.is/20260122083929/https://www.reuters.com/world/asia-pacific/south-korea-launches-landmark-laws-regulate-ai-startups-warn-compliance-burdens-2026-01-22/",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-23T11:15:21",
+      "sender": "玮炜",
+      "content": "还有自动选题机？",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-23T11:17:03",
+      "sender": "玮炜",
+      "content": "nb",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-23T11:20:12",
+      "sender": "玮炜",
+      "content": "行",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-23T11:21:48",
+      "sender": "玮炜",
+      "content": "我看下",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-23T11:22:01",
+      "sender": "玮炜",
+      "content": "这个？、[引用 lockin：媒体报道阿里巴巴旗下平头哥或将上市\n彭博社报道称，阿里巴巴正计划为其人工智能芯片部门平头哥（T-Head）进行首次公开募股（IPO），但公司尚未对此发表评论。我们认为，平头哥是阿里巴巴全栈式云基础设施（即芯片、模型与云计算）的自然延伸，并深度集成于其AI基础设施（PAI、磐久AI、灵骏）之中。该公司采取多芯片战略，服务于集团内不同业务板块的需求。我们重申将阿里巴巴作为行业首选标的，基于其在AI+云计算领域的战略布局。\n\n新动态\n彭博社与新浪均报道称，阿里巴巴正筹备对旗下AI芯片制造单元平头哥实施IPO，目前公司方面尚未置评。\n\n平头哥背景\n根据官网信息，平头哥成立于2018年，为阿里巴巴集团全资拥有的半导体芯片业务，提供从边缘到云端一体化的全栈产品系列，涵盖数据中心芯片、物联网芯片等端到端芯片设计流程。在产品层面，其主要芯片包括AI推理处理器PPU、AI芯片含光800、CPU芯片倚天710、SSD主控芯片（如震岳510）、UHF RFID芯片（如雨辰600、雨辰611）等。\n\n平头哥核心亮点\n主要包括：（1）根据官网资料，平头哥当前主要应用于阿里巴巴生态体系内的云服务、电商、营销、智能搜索等场景；（2）据媒体报道（如头条新闻），中芯国际（SMIC）是其PPU系列产品的主要代工合作伙伴；（3）根据IDC加速服务器追踪数据显示，平头哥在2025年上半年市场份额为7%；（4）据《电子工程专辑》中国版报道，PPU在内存容量（96G vs 80G）、芯片间带宽（700 GB/s vs 400 GB/s）方面已接近英伟达A800水平；（5）具备CUDA兼容性。公司未对上述媒体报导内容作出回应。\n\n2025年9月阿里云栖大会发布的全栈AI基础设施\n该架构支持从CPU向GPU迁移、模型生命周期管理及智能体开发，涵盖PAI（人工智能平台）、CPFS（云并行文件存储）和OSS（对象存储服务）。主要亮点包括：（1）PAI实现训练、推理与强化学习全流程性能优化，在复杂工作流中提升效率与性能表现；（2）磐久AI基础设施2.0版本，单机柜支持128颗芯片，具备超低延迟特性；（3）HPN8.0架构，采用统一的训练/推理计算架构，集群能力强大；（4）面向AI基础设施优化的CPFS，吞吐量提升60%，存储成本降低83%；（5）面向智能体优化的OSS，可实现高达95%的成本节约；（6）灵骏AI集群支持异构芯片协同运行；（7）网络层面构建全球互联的AI算力网络，覆盖30个国家和地区，加速训练与推理任务；（8）容器与函数计算提供弹性算力支持，赋能智能体及其工具链。\n\n同业估值对比\n以当前股价测算，阿里巴巴2026年市销率（P/S）介于40倍至70倍之间。相较而言，寒武纪（688256 CH，未评级）对应2026年P/S约为41倍，摩尔线程（688795 CH，未评级）超过70倍，壁仞科技（6082 HK，未评级）超过60倍，以上均为市场一致预期水平。财务预测方面，市场普遍预计寒武纪2025年营收将达到69亿元人民币，2026年同比增长101%至139亿元人民币。]",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-23T11:23:16",
+      "sender": "玮炜",
+      "content": "还行，感觉可以和百度昆仑合着写 ，他们俩就像是中国的tpu",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-23T11:23:22",
+      "sender": "玮炜",
+      "content": "可以给观众们介绍下",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-23T14:06:24",
+      "sender": "玮炜",
+      "content": "嗯嗯",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-23T14:06:25",
+      "sender": "玮炜",
+      "content": "好的",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-23T14:52:21",
+      "sender": "玮炜",
+      "content": "https://humr82ftfx.feishu.cn/wiki/Do6DwUzIxiJSCrkOgvPchX74nE6?from=from_copylink",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-23T15:36:55",
+      "sender": "玮炜",
+      "content": "这个吗 还是华为的那个",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-23T15:36:59",
+      "sender": "玮炜",
+      "content": "OK",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-23T15:37:17",
+      "sender": "玮炜",
+      "content": "ok",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-23T15:44:35",
+      "sender": "玮炜",
+      "content": "好",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-24T22:17:21",
+      "sender": "玮炜",
+      "content": "没啥说法，就是图一乐",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T12:49:51",
+      "sender": "玮炜",
+      "content": "那个时间表，是去年的？",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T12:49:54",
+      "sender": "玮炜",
+      "content": "AI幻觉了",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T12:50:08",
+      "sender": "玮炜",
+      "content": "除了iqoo 其他都不对",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:08:07",
+      "sender": "玮炜",
+      "content": "你要搞啥",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:08:14",
+      "sender": "玮炜",
+      "content": "每个月的科技时间吗",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:08:37",
+      "sender": "玮炜",
+      "content": "有现成的",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:09:13",
+      "sender": "玮炜",
+      "content": "https://www.ithome.com/",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:09:20",
+      "sender": "玮炜",
+      "content": "网页端 看了下没找到",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:09:24",
+      "sender": "玮炜",
+      "content": "但是手机端肯定有",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:09:26",
+      "sender": "玮炜",
+      "content": "科技日历",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:09:29",
+      "sender": "玮炜",
+      "content": "很全",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:10:11",
+      "sender": "玮炜",
+      "content": "这个对",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:10:16",
+      "sender": "玮炜",
+      "content": "但不是2月",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:10:18",
+      "sender": "玮炜",
+      "content": "是今天把",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:10:22",
+      "sender": "玮炜",
+      "content": "时间不对",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:13:22",
+      "sender": "玮炜",
+      "content": "不是这个",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:13:26",
+      "sender": "玮炜",
+      "content": "你去app上",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:13:40",
+      "sender": "玮炜",
+      "content": "小米最新一代是17",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:13:42",
+      "sender": "玮炜",
+      "content": "兄弟",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:13:56",
+      "sender": "玮炜",
+      "content": "这个就是it之家的把[引用 lockin：[图片]]",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:14:05",
+      "sender": "玮炜",
+      "content": "对",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:14:08",
+      "sender": "玮炜",
+      "content": "就看这个就行了",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:14:29",
+      "sender": "玮炜",
+      "content": "\"玮炜\" 撤回了一条消息0",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:14:39",
+      "sender": "玮炜",
+      "content": "你看很全的",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:15:01",
+      "sender": "玮炜",
+      "content": "[图片]",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:15:04",
+      "sender": "玮炜",
+      "content": "游戏都给你整上了",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:16:15",
+      "sender": "玮炜",
+      "content": "发布会好说，就看官方微博",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:16:26",
+      "sender": "玮炜",
+      "content": "主要是微博",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:16:30",
+      "sender": "玮炜",
+      "content": "推特吧",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:16:32",
+      "sender": "玮炜",
+      "content": "他们是人工的",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:16:43",
+      "sender": "玮炜",
+      "content": "他们十几个编辑稿",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:16:45",
+      "sender": "玮炜",
+      "content": "\"玮炜\" 撤回了一条消息0",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:16:47",
+      "sender": "玮炜",
+      "content": "搞",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:17:11",
+      "sender": "玮炜",
+      "content": "主要是人家体量大",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:17:16",
+      "sender": "玮炜",
+      "content": "IT之家 快20年了",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:17:27",
+      "sender": "玮炜",
+      "content": "生态位，体量都是头部",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:21:28",
+      "sender": "玮炜",
+      "content": "这是gemini总结的？[引用 lockin：[图片]]",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:22:13",
+      "sender": "玮炜",
+      "content": "哈哈哈",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:22:39",
+      "sender": "玮炜",
+      "content": "做这个工作还是不行",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:23:46",
+      "sender": "玮炜",
+      "content": "https://humr82ftfx.feishu.cn/wiki/DbZIwXAKBizbTnkfZCKcR0cknjd?from=from_copylink",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:23:56",
+      "sender": "玮炜",
+      "content": "你先改改，我去会议室",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:24:15",
+      "sender": "玮炜",
+      "content": "拍摄吧",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:24:18",
+      "sender": "玮炜",
+      "content": "也没叫我",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:24:30",
+      "sender": "玮炜",
+      "content": "我得知道拍啥",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:24:33",
+      "sender": "玮炜",
+      "content": "行！",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:24:40",
+      "sender": "玮炜",
+      "content": "不行",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:24:41",
+      "sender": "玮炜",
+      "content": "还是得去",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:25:02",
+      "sender": "玮炜",
+      "content": "有了",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:25:06",
+      "sender": "玮炜",
+      "content": "权限",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:25:12",
+      "sender": "玮炜",
+      "content": "我的知道拍啥",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:25:39",
+      "sender": "玮炜",
+      "content": "要不，我拍不了",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:39:21",
+      "sender": "玮炜",
+      "content": "麻了",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:51:38",
+      "sender": "玮炜",
+      "content": "看完这个，这个眼镜感觉得拍三天",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T13:51:55",
+      "sender": "玮炜",
+      "content": "傻了",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T15:13:33",
+      "sender": "玮炜",
+      "content": "没发 这不还开会呢 开完会 我直接跟他说",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T15:13:45",
+      "sender": "玮炜",
+      "content": "Ok",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T15:36:52",
+      "sender": "玮炜",
+      "content": "2.58 复制打开抖音，看看【差评君的作品】大耳朵图图吧，抗争十年终于物归原主了？ # 大耳朵... https://v.douyin.com/6SiljNRFJ6Y/ 05/13 KWM:/ s@e.BT",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T15:38:06",
+      "sender": "玮炜",
+      "content": "感觉我们先对标标下差评？",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T15:38:18",
+      "sender": "玮炜",
+      "content": "他们抖音做的还可以",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T15:40:37",
+      "sender": "玮炜",
+      "content": "是",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T15:41:23",
+      "sender": "玮炜",
+      "content": "视频号不行，但是抖音人家可以",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T15:41:36",
+      "sender": "玮炜",
+      "content": "我觉得他们可能得到了抖音官方的支持？",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T15:41:48",
+      "sender": "玮炜",
+      "content": "我看他们有什么抖音精选",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T15:41:59",
+      "sender": "玮炜",
+      "content": "明白",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T15:42:00",
+      "sender": "玮炜",
+      "content": "对",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T15:43:26",
+      "sender": "玮炜",
+      "content": "嗯，估计是他们进了精选，抖音给人推",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T15:43:39",
+      "sender": "玮炜",
+      "content": "包装一直有问题",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T15:43:59",
+      "sender": "玮炜",
+      "content": "庐山刚来那会，商量过，后开不了了之",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T15:44:02",
+      "sender": "玮炜",
+      "content": "好吧",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T15:44:08",
+      "sender": "玮炜",
+      "content": "顺其自然吧",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T15:45:37",
+      "sender": "玮炜",
+      "content": "他咋说的",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T15:46:23",
+      "sender": "玮炜",
+      "content": "[表情包]",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T15:46:28",
+      "sender": "玮炜",
+      "content": "行吧",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T15:47:31",
+      "sender": "玮炜",
+      "content": "明天我跟你细说",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T17:20:44",
+      "sender": "玮炜",
+      "content": "折腾半天，拍了仨镜头",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T17:21:47",
+      "sender": "玮炜",
+      "content": "250多个",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T17:21:50",
+      "sender": "玮炜",
+      "content": "麻了",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T17:22:06",
+      "sender": "玮炜",
+      "content": "一周吧，一个月有点夸张了",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T17:22:55",
+      "sender": "玮炜",
+      "content": "反正绷不住了",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T17:23:31",
+      "sender": "玮炜",
+      "content": "对，这俩连这写",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T17:23:36",
+      "sender": "玮炜",
+      "content": "可能有点意思",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T19:44:25",
+      "sender": "玮炜",
+      "content": "在呢",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T19:44:29",
+      "sender": "玮炜",
+      "content": "马上散了",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T19:56:20",
+      "sender": "玮炜",
+      "content": "拍完了 铁子",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T19:56:35",
+      "sender": "玮炜",
+      "content": "麻了",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T19:56:41",
+      "sender": "玮炜",
+      "content": "挑了半天青海摇",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T20:04:03",
+      "sender": "玮炜",
+      "content": "累麻了",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-28T20:04:09",
+      "sender": "玮炜",
+      "content": "明天后天都拍",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-29T11:22:12",
+      "sender": "玮炜",
+      "content": "https://koboldmetals.com/",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-29T11:22:15",
+      "sender": "玮炜",
+      "content": "AI找矿",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-29T11:22:22",
+      "sender": "玮炜",
+      "content": "这公司当初我研究来，背后的技术没搞懂",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-29T11:22:33",
+      "sender": "玮炜",
+      "content": "后来选题就抛了",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-29T11:22:46",
+      "sender": "玮炜",
+      "content": "你可以看看挖没挖到黄金",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-29T11:22:51",
+      "sender": "玮炜",
+      "content": "我看那会 新闻都是铜矿",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-29T11:23:00",
+      "sender": "玮炜",
+      "content": "当初想做长视频来",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-29T11:50:08",
+      "sender": "玮炜",
+      "content": "我去拍摄，有空帮我搞个封面",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-29T12:19:04",
+      "sender": "玮炜",
+      "content": "谢谢哥",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-29T12:19:16",
+      "sender": "玮炜",
+      "content": "[表情包]",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-29T14:38:38",
+      "sender": "玮炜",
+      "content": "吴哥 我暂时没事 我来搞封面吧",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-29T14:38:39",
+      "sender": "玮炜",
+      "content": "你忙你的",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-29T14:52:40",
+      "sender": "玮炜",
+      "content": "我想了下，如果一天发俩是不是会抢流量？今天先发你的 我的那个可以备着？",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-29T14:52:55",
+      "sender": "玮炜",
+      "content": "ok",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-29T16:10:36",
+      "sender": "玮炜",
+      "content": "你撤回了一条消息1769674305",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-29T16:12:12",
+      "sender": "玮炜",
+      "content": "在园区",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-29T16:12:19",
+      "sender": "玮炜",
+      "content": "刚在拍摄",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-29T21:08:10",
+      "sender": "玮炜",
+      "content": "[图片]",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-29T22:03:24",
+      "sender": "玮炜",
+      "content": "拍完了",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-29T22:03:27",
+      "sender": "玮炜",
+      "content": "明天继续",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-29T22:08:42",
+      "sender": "玮炜",
+      "content": "不太想说话",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-29T22:08:56",
+      "sender": "玮炜",
+      "content": "麻了",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-29T22:09:25",
+      "sender": "玮炜",
+      "content": "明天一天",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-01-29T22:09:31",
+      "sender": "玮炜",
+      "content": "结束",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-02T13:01:09",
+      "sender": "玮炜",
+      "content": "https://nypost.com/2026/01/31/tech/moltbook-is-a-new-social-media-platform-exclusively-for-ai/?ref=404media.co",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-02T13:01:21",
+      "sender": "玮炜",
+      "content": "和moltbook相关的抽象",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-02T13:02:17",
+      "sender": "玮炜",
+      "content": "ok",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-02T19:49:37",
+      "sender": "玮炜",
+      "content": "https://humr82ftfx.feishu.cn/wiki/HYypwzlWpi6IUrkwf9zcorcqnYd?from=from_copylink",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-02T19:49:41",
+      "sender": "玮炜",
+      "content": "在这了 吴哥",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-03T10:58:54",
+      "sender": "玮炜",
+      "content": "ok 待会开完会小标一波 我先找找选题",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-04T11:59:42",
+      "sender": "玮炜",
+      "content": "摆拍",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-04T11:59:47",
+      "sender": "玮炜",
+      "content": "广告",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-04T12:05:28",
+      "sender": "玮炜",
+      "content": "不知道",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-09T14:21:12",
+      "sender": "玮炜",
+      "content": "牛逼",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-09T14:25:27",
+      "sender": "玮炜",
+      "content": "你这个不用喂图片么",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-09T14:25:30",
+      "sender": "玮炜",
+      "content": "直接就能生成是吧",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-09T14:29:12",
+      "sender": "玮炜",
+      "content": "可能提示词给的不够多，少点动作",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-09T15:18:20",
+      "sender": "玮炜",
+      "content": "[视频]",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-09T15:19:36",
+      "sender": "玮炜",
+      "content": "OK",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-09T15:19:41",
+      "sender": "玮炜",
+      "content": "弄点葫芦娃",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-09T15:20:10",
+      "sender": "玮炜",
+      "content": "哈哈哈",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-09T15:20:11",
+      "sender": "玮炜",
+      "content": "好",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-09T17:21:55",
+      "sender": "玮炜",
+      "content": "https://humr82ftfx.feishu.cn/wiki/Hi2KwftnXiT37dkEqrZcdh97nWd?from=from_copylink",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-09T17:22:02",
+      "sender": "玮炜",
+      "content": "有点晚了，要不明天发",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-09T17:22:04",
+      "sender": "玮炜",
+      "content": "你看看",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-09T17:22:08",
+      "sender": "玮炜",
+      "content": "感觉不差一天的热度",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-09T17:22:11",
+      "sender": "玮炜",
+      "content": "明天可以早点发",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-09T17:22:21",
+      "sender": "玮炜",
+      "content": "我尽力了。。。兄弟，键盘冒火星了",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-09T17:22:25",
+      "sender": "玮炜",
+      "content": "我额度没了。。。",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-09T17:22:27",
+      "sender": "玮炜",
+      "content": "都用光了",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-09T17:22:35",
+      "sender": "玮炜",
+      "content": "效果太牛逼了",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-09T17:22:36",
+      "sender": "玮炜",
+      "content": "兄弟",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-09T17:23:46",
+      "sender": "玮炜",
+      "content": "[图片]",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-09T17:23:58",
+      "sender": "玮炜",
+      "content": "就传了这一张漫画图片",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-09T17:24:01",
+      "sender": "玮炜",
+      "content": "、自己生成的",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-09T17:24:02",
+      "sender": "玮炜",
+      "content": "[视频]",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-09T17:28:02",
+      "sender": "玮炜",
+      "content": "嗯嗯，你试试，非常牛",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-09T17:38:32",
+      "sender": "玮炜",
+      "content": "人太多了、",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-09T17:48:25",
+      "sender": "玮炜",
+      "content": "好的",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-09T17:48:45",
+      "sender": "玮炜",
+      "content": "开了",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-09T17:58:07",
+      "sender": "玮炜",
+      "content": "bro 吃的啥 好香",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-09T17:58:12",
+      "sender": "玮炜",
+      "content": "我也来一份",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-09T17:58:30",
+      "sender": "玮炜",
+      "content": "可以",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-09T17:58:38",
+      "sender": "玮炜",
+      "content": "没毛病 再来个可乐",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-09T18:39:42",
+      "sender": "玮炜",
+      "content": "[表情包]",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-10T17:09:25",
+      "sender": "玮炜",
+      "content": "[图片]",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-10T17:09:39",
+      "sender": "玮炜",
+      "content": "吴哥 标题你看看",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-10T18:40:34",
+      "sender": "玮炜",
+      "content": "再看",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-10T18:45:43",
+      "sender": "玮炜",
+      "content": "今天彻底进入到爆炸期",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-10T18:45:58",
+      "sender": "玮炜",
+      "content": "昨天还是自媒体，今天已经全民干了",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-10T18:46:01",
+      "sender": "玮炜",
+      "content": "服务器炸了",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-10T18:46:10",
+      "sender": "玮炜",
+      "content": "再就是 你这个丁磊。。。",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-10T18:46:14",
+      "sender": "玮炜",
+      "content": "估计够呛能生成吧",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-10T18:47:07",
+      "sender": "玮炜",
+      "content": "最近seedance的风口很紧，估计名人都不能生成了",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-11T09:56:35",
+      "sender": "玮炜",
+      "content": "吴哥，我上午请假了，下午过去",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-12T13:20:01",
+      "sender": "玮炜",
+      "content": "好",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-12T13:20:25",
+      "sender": "玮炜",
+      "content": "行",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-12T13:24:48",
+      "sender": "玮炜",
+      "content": "明天",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-12T13:24:53",
+      "sender": "玮炜",
+      "content": "你下午飞机？、",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-12T13:25:43",
+      "sender": "玮炜",
+      "content": "牛逼",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-12T13:25:46",
+      "sender": "玮炜",
+      "content": "我拼车",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-12T13:25:50",
+      "sender": "玮炜",
+      "content": "我近",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-12T13:25:54",
+      "sender": "玮炜",
+      "content": "你这多少小时",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-12T13:26:03",
+      "sender": "玮炜",
+      "content": "那还行",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-12T13:26:07",
+      "sender": "玮炜",
+      "content": "steamdeck打开",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-12T13:35:01",
+      "sender": "玮炜",
+      "content": "https://humr82ftfx.feishu.cn/wiki/MfojwYtYSiA7bOkv7yncljyinb1?from=from_copylink",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-12T13:37:27",
+      "sender": "玮炜",
+      "content": "嗯呢",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-12T13:37:29",
+      "sender": "玮炜",
+      "content": "也没啥发的",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-12T13:37:42",
+      "sender": "玮炜",
+      "content": "我自己是不发朋友圈的",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-12T13:37:46",
+      "sender": "玮炜",
+      "content": "就转发下公司的",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-12T13:41:50",
+      "sender": "玮炜",
+      "content": "1",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-12T16:04:25",
+      "sender": "玮炜",
+      "content": "这啥",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-12T16:04:42",
+      "sender": "玮炜",
+      "content": "面聊呗",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-12T16:04:46",
+      "sender": "玮炜",
+      "content": "这说 谁都get不到吧",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-12T16:53:23",
+      "sender": "玮炜",
+      "content": "可以",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-12T16:53:28",
+      "sender": "玮炜",
+      "content": "也想不出什么好的了",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-12T16:54:18",
+      "sender": "玮炜",
+      "content": "不会",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-24T16:25:28",
+      "sender": "玮炜",
+      "content": "客户要求 26号",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-24T16:26:15",
+      "sender": "玮炜",
+      "content": "伟哥把调休用用，过两天再上班 [呲牙]",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-24T16:26:29",
+      "sender": "玮炜",
+      "content": "在躺两天",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-26T10:21:43",
+      "sender": "玮炜",
+      "content": "吴哥 11点有个商单会议，你们先开，别等我",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-26T10:24:29",
+      "sender": "玮炜",
+      "content": "对 甲方是这个意思",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-26T10:24:49",
+      "sender": "玮炜",
+      "content": "已经改了一轮了",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-26T10:26:29",
+      "sender": "玮炜",
+      "content": "[表情包]",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-02-26T10:26:32",
+      "sender": "玮炜",
+      "content": "难搞的一逼",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-03-04T15:57:45",
+      "sender": "玮炜",
+      "content": "不是面试",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-03-04T15:57:48",
+      "sender": "玮炜",
+      "content": "baidu的商单",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-03-04T15:58:01",
+      "sender": "玮炜",
+      "content": "来聊聊",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-03-04T15:58:26",
+      "sender": "玮炜",
+      "content": "不知道啊，我也是第一次见。。。俩美女",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-03-04T15:58:55",
+      "sender": "玮炜",
+      "content": "哈哈哈",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-03-05T14:02:12",
+      "sender": "玮炜",
+      "content": "兄弟发",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-03-05T14:02:23",
+      "sender": "玮炜",
+      "content": "卧槽",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-03-05T14:02:25",
+      "sender": "玮炜",
+      "content": "这tm",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-03-05T14:02:33",
+      "sender": "玮炜",
+      "content": "马斯克还是牛逼",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-03-05T14:02:43",
+      "sender": "玮炜",
+      "content": "没有安全围栏的",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-03-05T14:02:53",
+      "sender": "玮炜",
+      "content": "nb",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-03-05T14:03:35",
+      "sender": "玮炜",
+      "content": "\"玮炜\" 撤回了一条消息0",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-03-05T14:03:59",
+      "sender": "玮炜",
+      "content": "被你玩明白了",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-03-05T14:04:05",
+      "sender": "玮炜",
+      "content": "为啥[引用 lockin：绝对没少用grok]",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-03-05T14:04:08",
+      "sender": "玮炜",
+      "content": "画质一样？",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-03-05T14:04:12",
+      "sender": "玮炜",
+      "content": "嗯",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-03-05T14:04:24",
+      "sender": "玮炜",
+      "content": "估计便宜",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-03-05T14:04:26",
+      "sender": "玮炜",
+      "content": "不要钱",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-03-05T14:04:40",
+      "sender": "玮炜",
+      "content": "几乎没成本的",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-03-05T14:04:52",
+      "sender": "玮炜",
+      "content": "嗯",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-03-05T14:05:03",
+      "sender": "玮炜",
+      "content": "大圆镜都是后配音的吧",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-03-05T14:05:15",
+      "sender": "玮炜",
+      "content": "可以",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-03-05T14:06:31",
+      "sender": "玮炜",
+      "content": "这是昨天的发段视频中的一个镜头吧",
+      "weight": 0.8
+    },
+    {
+      "timestamp": "2026-03-09T10:56:16",
+      "sender": "玮炜",
+      "content": "吴哥 请假了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-09T10:56:20",
+      "sender": "玮炜",
+      "content": "下午去",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-10T09:52:53",
+      "sender": "玮炜",
+      "content": "吴哥 我请假了 感冒了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-17T11:33:40",
+      "sender": "玮炜",
+      "content": "肯定有了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-17T11:34:01",
+      "sender": "玮炜",
+      "content": "我以为douyin没发呢",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-17T11:34:03",
+      "sender": "玮炜",
+      "content": "结果是给删了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-17T15:10:13",
+      "sender": "玮炜",
+      "content": "今天还需要你自己剪视频么，我待会没事可以帮忙剪",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-17T15:44:30",
+      "sender": "玮炜",
+      "content": "好",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-17T15:44:40",
+      "sender": "玮炜",
+      "content": "[汗]",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-17T16:19:31",
+      "sender": "玮炜",
+      "content": "能咋办 兄弟",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-17T16:19:45",
+      "sender": "玮炜",
+      "content": "这短视频就要日更吗",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-17T16:20:44",
+      "sender": "玮炜",
+      "content": "那招人啊",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-17T16:20:56",
+      "sender": "玮炜",
+      "content": "肯定干不动的",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-17T16:21:24",
+      "sender": "玮炜",
+      "content": "半年没进人了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-17T16:22:23",
+      "sender": "玮炜",
+      "content": "哈哈哈",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-17T16:22:46",
+      "sender": "玮炜",
+      "content": "搞了2月 是吧",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-17T16:23:46",
+      "sender": "玮炜",
+      "content": "为啥要搞你",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-17T16:23:54",
+      "sender": "玮炜",
+      "content": "这在咱们公司不是第一次了[引用 lockin：牛逼不]",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-17T16:24:02",
+      "sender": "玮炜",
+      "content": "习惯就行",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-17T16:24:45",
+      "sender": "玮炜",
+      "content": "下次你不发，一天就一条",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-17T16:24:49",
+      "sender": "玮炜",
+      "content": "除非商单",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-17T16:25:46",
+      "sender": "玮炜",
+      "content": "视频号 有抢流量的说法",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-17T16:25:50",
+      "sender": "玮炜",
+      "content": "抖音还好点",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-18T14:38:38",
+      "sender": "玮炜",
+      "content": "嗯呢",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-18T14:39:33",
+      "sender": "玮炜",
+      "content": "嗯",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-18T15:19:52",
+      "sender": "玮炜",
+      "content": "嗯",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-18T15:33:40",
+      "sender": "玮炜",
+      "content": "https://humr82ftfx.feishu.cn/wiki/R8B4wR66fiPboIk4Tibcgxmdnqc?from=from_copylink",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-18T15:33:42",
+      "sender": "玮炜",
+      "content": "写好了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-18T16:33:29",
+      "sender": "玮炜",
+      "content": "嗯嗯 我在看",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-18T16:33:50",
+      "sender": "玮炜",
+      "content": "嗯 大方向没毛病",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-18T16:33:56",
+      "sender": "玮炜",
+      "content": "你改的时候 我一直在看",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-18T16:34:06",
+      "sender": "玮炜",
+      "content": "有的技术小细节的需要改下",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-18T16:34:10",
+      "sender": "玮炜",
+      "content": "好的[引用 lockin：主要是有些地方讲得太精确，我怕观众也看不懂]",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-18T16:34:35",
+      "sender": "玮炜",
+      "content": "以后就按这个套路写？",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-18T16:35:09",
+      "sender": "玮炜",
+      "content": "马保国那个图不加了吗",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-18T16:36:15",
+      "sender": "玮炜",
+      "content": "好的",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-18T16:36:24",
+      "sender": "玮炜",
+      "content": "那我先改下小细节",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-18T16:39:14",
+      "sender": "玮炜",
+      "content": "[图片]",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-18T16:39:23",
+      "sender": "玮炜",
+      "content": "这个地方是dlss3时代的问题，我就把dlss5给删了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-18T16:39:25",
+      "sender": "玮炜",
+      "content": "其他没啥问题",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-18T16:39:50",
+      "sender": "玮炜",
+      "content": "我发给狗哥了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-18T16:56:12",
+      "sender": "玮炜",
+      "content": "我今天得改商单，明天开完会 我们聊聊[引用 lockin：咱们可以等等了了]",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-18T16:56:25",
+      "sender": "玮炜",
+      "content": "你看行不",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-18T16:56:27",
+      "sender": "玮炜",
+      "content": "我刚好给你发消息",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T13:10:52",
+      "sender": "玮炜",
+      "content": "嗯",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T13:51:38",
+      "sender": "玮炜",
+      "content": "新技术发布，老黄为啥被玩家骂？",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T13:51:44",
+      "sender": "玮炜",
+      "content": "这个封面标题可行？",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T13:51:49",
+      "sender": "玮炜",
+      "content": "OK",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T16:08:04",
+      "sender": "玮炜",
+      "content": "[图片]",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T16:08:05",
+      "sender": "玮炜",
+      "content": "封面行吗",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T16:08:06",
+      "sender": "玮炜",
+      "content": "吴哥",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T16:08:11",
+      "sender": "玮炜",
+      "content": "OK",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T16:08:35",
+      "sender": "玮炜",
+      "content": "可以的",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T16:08:44",
+      "sender": "玮炜",
+      "content": "你花多少美金了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T16:08:59",
+      "sender": "玮炜",
+      "content": "不便宜",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T16:10:23",
+      "sender": "玮炜",
+      "content": "是的",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T16:10:44",
+      "sender": "玮炜",
+      "content": "不是你的问题",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T16:10:50",
+      "sender": "玮炜",
+      "content": "它就是最贵的",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T16:10:53",
+      "sender": "玮炜",
+      "content": "比任何模型都回",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T16:10:54",
+      "sender": "玮炜",
+      "content": "贵",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T16:11:59",
+      "sender": "玮炜",
+      "content": "你还有打折呢",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T16:12:00",
+      "sender": "玮炜",
+      "content": "可以的",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T16:12:46",
+      "sender": "玮炜",
+      "content": "可以的",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T16:12:49",
+      "sender": "玮炜",
+      "content": "能省不少",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T16:13:25",
+      "sender": "玮炜",
+      "content": "咋了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T16:15:06",
+      "sender": "玮炜",
+      "content": "臃肿不影响使用吧",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T16:16:21",
+      "sender": "玮炜",
+      "content": "哦 对对",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T16:16:23",
+      "sender": "玮炜",
+      "content": "费钱",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T16:29:14",
+      "sender": "玮炜",
+      "content": "没费多少",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T16:29:23",
+      "sender": "玮炜",
+      "content": "感觉和其他ai差不多",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T16:29:31",
+      "sender": "玮炜",
+      "content": "好多数据感觉还是编的",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T16:30:03",
+      "sender": "玮炜",
+      "content": "哦哦",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T16:30:10",
+      "sender": "玮炜",
+      "content": "还有涡喷呢",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T16:30:13",
+      "sender": "玮炜",
+      "content": "真牛逼",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T16:30:40",
+      "sender": "玮炜",
+      "content": "这也太狠了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T16:30:55",
+      "sender": "玮炜",
+      "content": "涡喷飞的贼快",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T16:31:56",
+      "sender": "玮炜",
+      "content": "涡喷就是大客机用的那种",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T16:32:03",
+      "sender": "玮炜",
+      "content": "每小时7-800公里",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T16:32:09",
+      "sender": "玮炜",
+      "content": "螺旋桨就300公里",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T16:32:51",
+      "sender": "玮炜",
+      "content": "nb",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T16:33:33",
+      "sender": "玮炜",
+      "content": "是能买",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T16:33:43",
+      "sender": "玮炜",
+      "content": "这玩意是航模爱好者一直在玩",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T16:34:21",
+      "sender": "玮炜",
+      "content": "一般就是搞航模的，弄个小飞机，自娱自乐",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T16:34:37",
+      "sender": "玮炜",
+      "content": "https://www.bilibili.com/video/BV1pdaQzUEqN/?spm_id_from=333.337.search-card.all.click",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T16:36:24",
+      "sender": "玮炜",
+      "content": "我感觉差点事，正文没啥毛病， 但对于短视频来讲，缺少钩子，然后内容太长了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T16:37:12",
+      "sender": "玮炜",
+      "content": "哦哦",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T16:38:53",
+      "sender": "玮炜",
+      "content": "dlss 那个发了？",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T16:38:57",
+      "sender": "玮炜",
+      "content": "狗哥没回",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T16:39:14",
+      "sender": "玮炜",
+      "content": "哈哈哈 好的",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T18:49:04",
+      "sender": "玮炜",
+      "content": "不知道 哥",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T18:52:17",
+      "sender": "玮炜",
+      "content": "明天见",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-19T18:52:32",
+      "sender": "玮炜",
+      "content": "嗯",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-20T10:17:19",
+      "sender": "玮炜",
+      "content": "牛逼啊",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-20T10:17:27",
+      "sender": "玮炜",
+      "content": "突破1000了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-20T13:18:03",
+      "sender": "玮炜",
+      "content": "https://humr82ftfx.feishu.cn/wiki/DrSowUCxJiISaskLLEXcut6cn5e?from=from_copylink",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-20T13:18:08",
+      "sender": "玮炜",
+      "content": "结尾写不好，你看看",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-20T14:15:17",
+      "sender": "玮炜",
+      "content": "改好了？",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-20T15:35:45",
+      "sender": "玮炜",
+      "content": "\"玮炜\" 撤回了一条消息0",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-20T15:35:47",
+      "sender": "玮炜",
+      "content": "\"玮炜\" 撤回了一条消息0",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-20T15:35:48",
+      "sender": "玮炜",
+      "content": "[图片]",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-20T15:36:00",
+      "sender": "玮炜",
+      "content": "OK",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-20T15:41:49",
+      "sender": "玮炜",
+      "content": "新SU7开门红，小米离\"既叫好又赚钱\"还有多远？",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-20T15:41:53",
+      "sender": "玮炜",
+      "content": "这个呢",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-20T15:42:03",
+      "sender": "玮炜",
+      "content": "之前的梓哥 说不行",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-20T15:42:25",
+      "sender": "玮炜",
+      "content": "21.99万的新SU7，雷军这次交卷了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-20T15:42:29",
+      "sender": "玮炜",
+      "content": "这个是不是更好点",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-20T15:42:51",
+      "sender": "玮炜",
+      "content": "21.99万 雷神神了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-20T15:43:04",
+      "sender": "玮炜",
+      "content": "Ok",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-20T15:43:17",
+      "sender": "玮炜",
+      "content": "嗯呢",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-20T16:53:10",
+      "sender": "玮炜",
+      "content": "这是哪个平台",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-20T16:55:21",
+      "sender": "玮炜",
+      "content": "douyin不是93万粉丝吗",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-20T17:07:27",
+      "sender": "玮炜",
+      "content": "好吧",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-20T17:07:48",
+      "sender": "玮炜",
+      "content": "我觉的能稳住不掉分已经很牛逼了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-23T10:46:13",
+      "sender": "玮炜",
+      "content": "铁子 请假了 下午去",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-24T11:17:55",
+      "sender": "玮炜",
+      "content": "不知道啊",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-24T11:17:58",
+      "sender": "玮炜",
+      "content": "今天下午还出差呢",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-24T11:26:04",
+      "sender": "玮炜",
+      "content": "去上海",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-24T11:26:08",
+      "sender": "玮炜",
+      "content": "周四回来",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-24T17:14:17",
+      "sender": "玮炜",
+      "content": "刚下飞机，估计得到了酒店",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-24T17:14:21",
+      "sender": "玮炜",
+      "content": "明天发吧",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-24T17:14:23",
+      "sender": "玮炜",
+      "content": "铁子",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-26T15:38:19",
+      "sender": "玮炜",
+      "content": "啊？",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-26T15:38:22",
+      "sender": "玮炜",
+      "content": "我以为请假了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-26T15:38:45",
+      "sender": "玮炜",
+      "content": "Soga",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-26T15:39:24",
+      "sender": "玮炜",
+      "content": "。。。",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-26T15:39:35",
+      "sender": "玮炜",
+      "content": "也不咋想的",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-26T15:40:00",
+      "sender": "玮炜",
+      "content": "找你要文件，还tm是几个月前的",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-26T15:40:56",
+      "sender": "玮炜",
+      "content": "。。。",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-26T15:41:22",
+      "sender": "玮炜",
+      "content": "等活还行。。。",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-26T15:41:51",
+      "sender": "玮炜",
+      "content": "只能说等活  是没想到的",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-26T15:42:03",
+      "sender": "玮炜",
+      "content": "每天定个闹钟 来炒股",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-26T15:42:16",
+      "sender": "玮炜",
+      "content": "能不知道么",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-26T15:42:23",
+      "sender": "玮炜",
+      "content": "天天两点多",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-26T15:42:28",
+      "sender": "玮炜",
+      "content": "这都啥啊",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-27T10:52:16",
+      "sender": "玮炜",
+      "content": "可以的",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-27T10:52:23",
+      "sender": "玮炜",
+      "content": "能不掉粉 已经很牛逼了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-27T10:55:01",
+      "sender": "玮炜",
+      "content": "[图片]",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-27T10:55:05",
+      "sender": "玮炜",
+      "content": "整体来看 挺好",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-27T10:55:15",
+      "sender": "玮炜",
+      "content": "偶然有个打不到标准 也没啥",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-27T10:56:21",
+      "sender": "玮炜",
+      "content": "首先，这样的选题就不多",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-27T10:57:00",
+      "sender": "玮炜",
+      "content": "能爆的选题",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-27T10:57:13",
+      "sender": "玮炜",
+      "content": "比如咱们几个爆的，都是和热点，例如伊朗啥的相关",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-27T10:58:27",
+      "sender": "玮炜",
+      "content": "没有热点，就只能找选题，但是这样的选题应该没那么多，只能说换角度看",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-27T10:59:25",
+      "sender": "玮炜",
+      "content": "让内存股价崩盘的那个？",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-27T10:59:44",
+      "sender": "玮炜",
+      "content": "对",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-27T10:59:49",
+      "sender": "玮炜",
+      "content": "是没啥包装的",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-27T11:00:14",
+      "sender": "玮炜",
+      "content": "不知道hugo咋和你说的，他那边有啥期待吗 还是说 就是随便搞，但是要日更",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-27T11:01:49",
+      "sender": "玮炜",
+      "content": "我看都分给孙雨竹了，你和她聊聊想法？[引用 lockin：短视频对剪辑来说就是额外的活，谁几把给你干啊]",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-27T11:01:57",
+      "sender": "玮炜",
+      "content": "再就是你一个人干，为啥没给你分配资源",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-27T11:02:14",
+      "sender": "玮炜",
+      "content": "我感觉你没必要太大压力，你一个人干，能干成这样，已经很牛逼了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-27T11:02:19",
+      "sender": "玮炜",
+      "content": "以前抖音没人看的",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-27T11:02:35",
+      "sender": "玮炜",
+      "content": "现在能在短时间内做成这样 已经很牛逼了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-27T11:03:53",
+      "sender": "玮炜",
+      "content": "长视频这两期，我觉得没讲透，也不好玩，就卡在中间",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-27T11:04:06",
+      "sender": "玮炜",
+      "content": "也不好看",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-27T11:05:22",
+      "sender": "玮炜",
+      "content": "我说呢，那个palantir咋没啥互动",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-27T11:06:00",
+      "sender": "玮炜",
+      "content": "对",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-27T11:06:18",
+      "sender": "玮炜",
+      "content": "就数据这块 没有专门的宇宁",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-27T11:06:21",
+      "sender": "玮炜",
+      "content": "运营",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-27T11:06:29",
+      "sender": "玮炜",
+      "content": "5秒，封面点击率",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-27T11:15:19",
+      "sender": "玮炜",
+      "content": "那咋办？岂不是要g",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-27T11:15:46",
+      "sender": "玮炜",
+      "content": "那要搬到杭州 是不是还有希望",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-27T11:16:21",
+      "sender": "玮炜",
+      "content": "hugo跟你说到底去不去杭州",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-27T11:17:27",
+      "sender": "玮炜",
+      "content": "对 接着上面的话，我觉得短视频就要个性化才能留住观众",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-27T11:17:45",
+      "sender": "玮炜",
+      "content": "否则只能吃选题",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-27T11:20:32",
+      "sender": "玮炜",
+      "content": "先动起，我觉得包装这个 咱们俩可以自己高一班出来",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-27T11:21:53",
+      "sender": "玮炜",
+      "content": "嗯 明白 那就做好分内的吧",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-27T12:11:33",
+      "sender": "玮炜",
+      "content": "哈哈哈",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-27T12:11:40",
+      "sender": "玮炜",
+      "content": "讲的太多了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-27T12:11:42",
+      "sender": "玮炜",
+      "content": "哥",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-27T12:13:22",
+      "sender": "玮炜",
+      "content": "这个就是太长了，如果前后能连起来，给人一种连点成线的感觉还行",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-27T12:13:35",
+      "sender": "玮炜",
+      "content": "现在估计看一半就没啥人看了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-30T14:36:38",
+      "sender": "玮炜",
+      "content": "3点左右",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-30T14:37:05",
+      "sender": "玮炜",
+      "content": "你改改看看",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-30T14:37:32",
+      "sender": "玮炜",
+      "content": "不知道啊，我一次奖金没拿过。。。",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-30T14:38:53",
+      "sender": "玮炜",
+      "content": "我没有过。。",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-30T14:39:21",
+      "sender": "玮炜",
+      "content": "这个月已经扣了两次了[皱眉]",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-30T15:18:27",
+      "sender": "玮炜",
+      "content": "https://humr82ftfx.feishu.cn/wiki/I6P5wY58PijRGLk2TvocJ2aZn3c?from=from_copylink",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-30T15:18:32",
+      "sender": "玮炜",
+      "content": "不知道咋收尾了。。。",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-30T15:18:34",
+      "sender": "玮炜",
+      "content": "你看看",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-30T15:22:00",
+      "sender": "玮炜",
+      "content": "放不开，你的那种我写不了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-30T15:22:52",
+      "sender": "玮炜",
+      "content": "算不上了吧，这是厂商比赛，没啥国家概念",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-30T15:23:14",
+      "sender": "玮炜",
+      "content": "对",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-30T15:23:20",
+      "sender": "玮炜",
+      "content": "嗯呢",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-30T15:24:15",
+      "sender": "玮炜",
+      "content": "好的",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-30T15:37:08",
+      "sender": "玮炜",
+      "content": "没毛病",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-30T15:50:21",
+      "sender": "玮炜",
+      "content": "一直在看",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-30T15:50:47",
+      "sender": "玮炜",
+      "content": "专业部分没毛",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-30T15:51:38",
+      "sender": "玮炜",
+      "content": "好的",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-30T16:01:51",
+      "sender": "玮炜",
+      "content": "改个名字就成",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-30T16:02:03",
+      "sender": "玮炜",
+      "content": "nb",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-30T16:02:13",
+      "sender": "玮炜",
+      "content": "我也记得有这个场景，但是忘记是哪个电影了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-30T16:17:53",
+      "sender": "玮炜",
+      "content": "嗯",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-30T16:18:54",
+      "sender": "玮炜",
+      "content": "太贵",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-30T16:21:39",
+      "sender": "玮炜",
+      "content": "没有张雪这些国产车，之前随便买一辆川崎 都要五六万",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-30T16:22:02",
+      "sender": "玮炜",
+      "content": "冲",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T12:28:53",
+      "sender": "玮炜",
+      "content": "抖音吗",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T12:29:09",
+      "sender": "玮炜",
+      "content": "活跃粉丝一般来讲有个1/4吧",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T12:29:21",
+      "sender": "玮炜",
+      "content": "粉丝数的注水太严重了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T12:29:23",
+      "sender": "玮炜",
+      "content": "嗯呢",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T12:29:40",
+      "sender": "玮炜",
+      "content": "所以你别太有压力，我觉得播放量目前是正常的，",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T12:29:58",
+      "sender": "玮炜",
+      "content": "那就爆起来！",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T12:31:20",
+      "sender": "玮炜",
+      "content": "对呀，之前douyin播放就几十个赞[引用 玮炜：所以你别太有压力，我觉得播放量目前是正常的，]",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T14:57:52",
+      "sender": "玮炜",
+      "content": "收到",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T15:02:37",
+      "sender": "玮炜",
+      "content": "我觉得挺牛逼",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T15:02:46",
+      "sender": "玮炜",
+      "content": "没啥瑕疵  我能看懂",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T15:03:10",
+      "sender": "玮炜",
+      "content": "精确和易读 本来就是矛盾的",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T15:58:29",
+      "sender": "玮炜",
+      "content": "Agent啊？",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T15:58:38",
+      "sender": "玮炜",
+      "content": "估计不会操作，你这个属于违法",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T15:58:51",
+      "sender": "玮炜",
+      "content": "啊？",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T15:59:47",
+      "sender": "玮炜",
+      "content": "你这个比AI炒股靠谱",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T16:01:02",
+      "sender": "玮炜",
+      "content": "是",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T16:01:06",
+      "sender": "玮炜",
+      "content": "我待会也试试",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T16:01:31",
+      "sender": "玮炜",
+      "content": "我出200",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T16:01:59",
+      "sender": "玮炜",
+      "content": "[转账]￥200.00",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T16:02:31",
+      "sender": "玮炜",
+      "content": "你这个不是prompt吗？不算算法吧，只能说让AI优化",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T16:02:50",
+      "sender": "玮炜",
+      "content": "这个赌球 你说的是体彩那个吧",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T16:02:55",
+      "sender": "玮炜",
+      "content": "嗯嗯",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T16:03:01",
+      "sender": "玮炜",
+      "content": "那数据挺多的",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T16:03:49",
+      "sender": "玮炜",
+      "content": "分散风险啊？",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T16:04:00",
+      "sender": "玮炜",
+      "content": "行",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T16:17:07",
+      "sender": "玮炜",
+      "content": "卧槽",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T16:17:14",
+      "sender": "玮炜",
+      "content": "猛猛编辑skill",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T16:17:21",
+      "sender": "玮炜",
+      "content": "成败在此一举",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T16:18:38",
+      "sender": "玮炜",
+      "content": "感觉这个token就烧10美刀",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T16:18:52",
+      "sender": "玮炜",
+      "content": "哈哈哈 nb",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T16:19:26",
+      "sender": "玮炜",
+      "content": "nb",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T16:44:10",
+      "sender": "玮炜",
+      "content": "-10 dollar",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T16:44:40",
+      "sender": "玮炜",
+      "content": "可以的 有的不让AI爬数据",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T16:46:04",
+      "sender": "玮炜",
+      "content": "嗯",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T16:46:46",
+      "sender": "玮炜",
+      "content": "最近claude",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T16:46:47",
+      "sender": "玮炜",
+      "content": "涨价了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T16:47:38",
+      "sender": "玮炜",
+      "content": "哈哈哈",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T19:07:49",
+      "sender": "玮炜",
+      "content": "。。。",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T19:07:52",
+      "sender": "玮炜",
+      "content": "哈哈哈",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T19:08:51",
+      "sender": "玮炜",
+      "content": "你很严谨 要是我就随便弄弄 就下注了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T19:29:08",
+      "sender": "玮炜",
+      "content": "可以",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T19:29:10",
+      "sender": "玮炜",
+      "content": "干就完了 兄弟",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T19:32:14",
+      "sender": "玮炜",
+      "content": "完全看不懂，但明天估计不亏",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T19:35:30",
+      "sender": "玮炜",
+      "content": "信任AI",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-03-31T19:51:33",
+      "sender": "玮炜",
+      "content": "稳了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-01T13:40:27",
+      "sender": "玮炜",
+      "content": "跟咱们今天发的没啥关系",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-01T13:40:29",
+      "sender": "玮炜",
+      "content": "这个不太行",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-01T14:49:31",
+      "sender": "玮炜",
+      "content": "\"玮炜\" 撤回了一条消息0",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-01T14:49:32",
+      "sender": "玮炜",
+      "content": "https://humr82ftfx.feishu.cn/wiki/Smk7wSm0xivBo2k58AVcKpjOnlx?from=from_copylink",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-01T14:49:32",
+      "sender": "玮炜",
+      "content": "\"玮炜\" 撤回了一条消息0",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-01T14:49:38",
+      "sender": "玮炜",
+      "content": "都在这了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T11:39:06",
+      "sender": "玮炜",
+      "content": "嗯嗯",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T11:39:12",
+      "sender": "玮炜",
+      "content": "写完火箭 今天就搞了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T11:39:18",
+      "sender": "玮炜",
+      "content": "又来个坦克的商单",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T11:40:11",
+      "sender": "玮炜",
+      "content": "不是恶心的问题，咱们现在影响力没那么大了，要是影视飓风，人家商单都排不过来的。现在先给甲方甜头，然后梓哥他们好谈合作",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T11:40:19",
+      "sender": "玮炜",
+      "content": "[图片]",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T12:35:56",
+      "sender": "玮炜",
+      "content": "有很多我也看不懂。。。但是大面上看下来 没啥毛病",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T12:46:50",
+      "sender": "玮炜",
+      "content": "我快写完了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T12:46:53",
+      "sender": "玮炜",
+      "content": "写完给你看看",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T12:59:14",
+      "sender": "玮炜",
+      "content": "\"玮炜\" 撤回了一条消息0",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T12:59:16",
+      "sender": "玮炜",
+      "content": "https://humr82ftfx.feishu.cn/wiki/LhuDwhSVdiTy3dkLVqrcyCIInjh?from=from_copylink",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T12:59:21",
+      "sender": "玮炜",
+      "content": "https://humr82ftfx.feishu.cn/wiki/LhuDwhSVdiTy3dkLVqrcyCIInjh?from=from_copylink",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T12:59:28",
+      "sender": "玮炜",
+      "content": "插个结尾",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T12:59:29",
+      "sender": "玮炜",
+      "content": "差",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T12:59:31",
+      "sender": "玮炜",
+      "content": "你看看",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T13:23:58",
+      "sender": "玮炜",
+      "content": "对了 忘了说了，你要是有好的想法 按你的来就行",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T13:24:05",
+      "sender": "玮炜",
+      "content": "以播放数据为第一原则",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T13:24:15",
+      "sender": "玮炜",
+      "content": "你要觉得有更好的方式就按你的来",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T13:24:32",
+      "sender": "玮炜",
+      "content": "玩不了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T13:24:36",
+      "sender": "玮炜",
+      "content": "一点",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T13:24:51",
+      "sender": "玮炜",
+      "content": "[图片]",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T14:27:29",
+      "sender": "玮炜",
+      "content": "拉我进群",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T14:27:52",
+      "sender": "玮炜",
+      "content": "后期拉了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T14:37:01",
+      "sender": "玮炜",
+      "content": "量子",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T14:37:32",
+      "sender": "玮炜",
+      "content": "嗯",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T14:42:11",
+      "sender": "玮炜",
+      "content": "[图片]",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T14:42:13",
+      "sender": "玮炜",
+      "content": "没回",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T15:10:27",
+      "sender": "玮炜",
+      "content": "啥意思[引用 lockin：[图片]]",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T15:14:50",
+      "sender": "玮炜",
+      "content": "哦。。。",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T16:28:56",
+      "sender": "玮炜",
+      "content": "OK",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T16:29:16",
+      "sender": "玮炜",
+      "content": "希望天网出现的时候",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T16:29:27",
+      "sender": "玮炜",
+      "content": "记得咱们上供的这两百",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T16:29:33",
+      "sender": "玮炜",
+      "content": "那倒不用，哈哈哈",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T16:29:35",
+      "sender": "玮炜",
+      "content": "愿赌服输",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T16:34:25",
+      "sender": "玮炜",
+      "content": "俊哥出差了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T17:46:29",
+      "sender": "玮炜",
+      "content": "claude[引用 lockin：[图片]]",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T17:46:55",
+      "sender": "玮炜",
+      "content": "你能把下面这段话用动画表示出来吗？或者说视觉化：而10分钟，就是比特币的生死线。\n因为在比特币世界里，每次转账，都至少要1个区块确认，而 打包一个区块的时间，就是 10分钟 。\n那么如果你能在这10分钟内把私钥算出来，就能把这笔交易截胡。\n根据谷歌的测算，现在这种“半路打劫”的成功率，高达 41%。\n他们也算了狗狗币，莱特币的破解成功率。\n因为这俩区块确认时间更快，狗狗币是1分钟，莱特币是2.5分钟，所以攻击的效果就差很多。",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T17:47:02",
+      "sender": "玮炜",
+      "content": "上面就是prompt",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T17:47:26",
+      "sender": "玮炜",
+      "content": "我瞎几把弄的，不知道行不行。。。",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T17:47:32",
+      "sender": "玮炜",
+      "content": "让后期老师看着用",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T17:47:36",
+      "sender": "玮炜",
+      "content": "要不太干吧",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T18:12:35",
+      "sender": "玮炜",
+      "content": "不会",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T20:40:06",
+      "sender": "玮炜",
+      "content": "可以的",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T20:40:22",
+      "sender": "玮炜",
+      "content": "饮料不喝了 哈哈哈 别给我买",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T20:40:25",
+      "sender": "玮炜",
+      "content": "可以的",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T20:40:45",
+      "sender": "玮炜",
+      "content": "可以的",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-02T20:40:53",
+      "sender": "玮炜",
+      "content": "需要一波",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-03T08:11:41",
+      "sender": "玮炜",
+      "content": "错过一波大行情",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-03T08:58:10",
+      "sender": "玮炜",
+      "content": "没录呢",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-03T08:59:08",
+      "sender": "玮炜",
+      "content": "哈哈哈  没办法",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-03T09:24:40",
+      "sender": "玮炜",
+      "content": "嗯，有道理",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-03T09:25:13",
+      "sender": "玮炜",
+      "content": "公共信息场",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-03T11:10:15",
+      "sender": "玮炜",
+      "content": "哈哈哈",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-03T11:10:20",
+      "sender": "玮炜",
+      "content": "真人吗",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-03T11:10:27",
+      "sender": "玮炜",
+      "content": "如果对方是机器人 也没啥",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-03T11:10:29",
+      "sender": "玮炜",
+      "content": "可以的",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-03T11:10:31",
+      "sender": "玮炜",
+      "content": "那很爽了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-03T11:10:46",
+      "sender": "玮炜",
+      "content": "哈哈",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-03T11:11:21",
+      "sender": "玮炜",
+      "content": "nb",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-03T11:54:09",
+      "sender": "玮炜",
+      "content": "1",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-03T11:54:12",
+      "sender": "玮炜",
+      "content": "拉我进群",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-03T11:54:33",
+      "sender": "玮炜",
+      "content": "有了 拉我进去",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-03T11:56:21",
+      "sender": "玮炜",
+      "content": "你纠正他的观点，作为资深的科技人get不到大众视角",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-03T12:02:54",
+      "sender": "玮炜",
+      "content": "deepseek那个肯定做",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-03T12:27:02",
+      "sender": "玮炜",
+      "content": "嗯 你搞下 看看效果",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-03T12:35:48",
+      "sender": "玮炜",
+      "content": "它的受众不是普通人，它就是要吸引那些AI群体",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-03T12:36:38",
+      "sender": "玮炜",
+      "content": "ai几个头部 什么量子位 也都是这种",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-03T12:36:42",
+      "sender": "玮炜",
+      "content": "没有降维",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-03T12:38:59",
+      "sender": "玮炜",
+      "content": "确实，他们这么做，很难吸引人的",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-03T12:39:03",
+      "sender": "玮炜",
+      "content": "还是要降维",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-03T12:44:10",
+      "sender": "玮炜",
+      "content": "好想法啊！",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-03T12:44:17",
+      "sender": "玮炜",
+      "content": "你跟hugo说说",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-03T12:44:24",
+      "sender": "玮炜",
+      "content": "这绝对是个牛逼的项目",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-03T12:44:57",
+      "sender": "玮炜",
+      "content": "嗯，别装逼",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-03T12:53:31",
+      "sender": "玮炜",
+      "content": "那怎么说，还录吗[引用 lockin：[图片]]",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-03T12:53:38",
+      "sender": "玮炜",
+      "content": "我还在翻电影找素材呢",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-03T12:53:54",
+      "sender": "玮炜",
+      "content": "那行吧 我先搞商单",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-03T13:10:21",
+      "sender": "玮炜",
+      "content": "这个牛逼",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-03T14:38:53",
+      "sender": "玮炜",
+      "content": "收到",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-03T14:57:39",
+      "sender": "玮炜",
+      "content": "能找到的都标完了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-03T14:58:31",
+      "sender": "玮炜",
+      "content": "其他 就只能AI或者科幻电影了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-03T15:00:25",
+      "sender": "玮炜",
+      "content": "这好像太 太空歌剧了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-03T15:00:28",
+      "sender": "玮炜",
+      "content": "像是基地",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-03T18:17:14",
+      "sender": "玮炜",
+      "content": "龙虾就是要你有一台24小时开的电脑",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-03T18:17:20",
+      "sender": "玮炜",
+      "content": "你想用好了，就得一直开着",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-03T18:56:45",
+      "sender": "玮炜",
+      "content": "可以的，有专业运营了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T13:03:11",
+      "sender": "玮炜",
+      "content": "闲鱼",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T13:03:14",
+      "sender": "玮炜",
+      "content": "？",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T13:03:22",
+      "sender": "玮炜",
+      "content": "多少钱买的",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T13:03:27",
+      "sender": "玮炜",
+      "content": "哦哦",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T13:03:31",
+      "sender": "玮炜",
+      "content": "约等于不要钱",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T13:03:34",
+      "sender": "玮炜",
+      "content": "可以的",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T13:03:42",
+      "sender": "玮炜",
+      "content": "狠狠的薅 马化腾",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T13:03:52",
+      "sender": "玮炜",
+      "content": "游戏氪进去的 都赚回来",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T13:03:54",
+      "sender": "玮炜",
+      "content": "够了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T13:04:01",
+      "sender": "玮炜",
+      "content": "一万都不够你用2个月的、",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T13:08:07",
+      "sender": "玮炜",
+      "content": "肯定是不划算",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T13:08:16",
+      "sender": "玮炜",
+      "content": "涨了700 800",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T13:08:20",
+      "sender": "玮炜",
+      "content": "去年都是2900 就能买",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T13:08:30",
+      "sender": "玮炜",
+      "content": "没咋办，你要着急用就买",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T13:08:39",
+      "sender": "玮炜",
+      "content": "那就等等",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T13:08:42",
+      "sender": "玮炜",
+      "content": "年底可能会降级",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T13:08:44",
+      "sender": "玮炜",
+      "content": "降价",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T13:08:56",
+      "sender": "玮炜",
+      "content": "现在所有的电子产品都涨价了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T13:09:01",
+      "sender": "玮炜",
+      "content": "ps5 涨价1000",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T13:09:13",
+      "sender": "玮炜",
+      "content": "涨价的的一笔[引用 lockin：[图片]]",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T13:09:47",
+      "sender": "玮炜",
+      "content": "[图片]",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T13:09:56",
+      "sender": "玮炜",
+      "content": "去年价格",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T13:09:59",
+      "sender": "玮炜",
+      "content": "去年双11 左右",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T13:10:06",
+      "sender": "玮炜",
+      "content": "需要买显示器鼠标",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T13:10:29",
+      "sender": "玮炜",
+      "content": "对",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T13:10:35",
+      "sender": "玮炜",
+      "content": "内存硬盘都涨",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T13:10:44",
+      "sender": "玮炜",
+      "content": "\"玮炜\" 撤回了一条消息0",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T13:10:45",
+      "sender": "玮炜",
+      "content": "最贵",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T13:11:00",
+      "sender": "玮炜",
+      "content": "[图片]",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T13:11:22",
+      "sender": "玮炜",
+      "content": "我之前300买的内存",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T13:11:27",
+      "sender": "玮炜",
+      "content": "上个月1000卖了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T13:12:10",
+      "sender": "玮炜",
+      "content": "我用不到 放着吃灰就卖了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T13:12:30",
+      "sender": "玮炜",
+      "content": "你要用的到 就别卖 现在电子产品太鸡儿贵了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T13:22:15",
+      "sender": "玮炜",
+      "content": "改天问问他",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T13:23:00",
+      "sender": "玮炜",
+      "content": "可以 跑端侧的那个",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T13:23:06",
+      "sender": "玮炜",
+      "content": "你手机应该就行",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T13:23:39",
+      "sender": "玮炜",
+      "content": "对",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T13:23:44",
+      "sender": "玮炜",
+      "content": "你这个什么",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T13:23:51",
+      "sender": "玮炜",
+      "content": "是奶龙经常说的吗",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T13:23:56",
+      "sender": "玮炜",
+      "content": "还是谁来",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T13:24:42",
+      "sender": "玮炜",
+      "content": "哦哦",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T14:19:40",
+      "sender": "玮炜",
+      "content": "稍等 我查下",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T14:22:21",
+      "sender": "玮炜",
+      "content": "应该是15ultra",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T14:26:49",
+      "sender": "玮炜",
+      "content": "没毛病",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T14:27:00",
+      "sender": "玮炜",
+      "content": "顶替长焦镜头+相机了",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T14:27:03",
+      "sender": "玮炜",
+      "content": "不容易被发现",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T22:00:39",
+      "sender": "玮炜",
+      "content": "？？？",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T22:00:55",
+      "sender": "玮炜",
+      "content": "Workbuddy写稿子吗",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T22:02:36",
+      "sender": "玮炜",
+      "content": "牛逼",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T22:02:51",
+      "sender": "玮炜",
+      "content": "你把封面也加进去",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T22:02:55",
+      "sender": "玮炜",
+      "content": "以后自动做封面",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T22:03:38",
+      "sender": "玮炜",
+      "content": "。。。",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T22:03:43",
+      "sender": "玮炜",
+      "content": "套娃是吧",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T22:07:54",
+      "sender": "玮炜",
+      "content": "很超现实",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T22:07:56",
+      "sender": "玮炜",
+      "content": "这个抬杆",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T22:10:46",
+      "sender": "玮炜",
+      "content": "。。。",
+      "weight": 1.0
+    },
+    {
+      "timestamp": "2026-04-07T22:10:58",
+      "sender": "玮炜",
+      "content": "哈哈哈",
+      "weight": 1.0
+    }
+  ]
+}

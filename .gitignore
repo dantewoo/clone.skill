@@ -1,0 +1,4 @@
+temp/
+test_output/
+*.zip
+.DS_Store
