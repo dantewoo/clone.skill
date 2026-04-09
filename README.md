@@ -1,6 +1,6 @@
 # 克隆.skill 架构说明
 <img width="280" height="220" alt="image" src="https://github.com/user-attachments/assets/06c181a6-b31e-4e24-837d-5c843d61f408" />
-投喂资料，一键将名人、前任、现任、仇敌、兄弟、姐妹等等影响你的人，变成ai数字人
+> 投喂资料，一键将名人、前任、现任、仇敌、兄弟、姐妹等等影响你的人，变成 AI 数字人
 ## 版本
 v1.1.0 - 支持任意文本输入
 
